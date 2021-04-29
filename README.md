@@ -1,15 +1,15 @@
-👋 Olá, sou @efcunha
+👋 Olá, sou Edson F. Cunha
 
-👀 Estou interessado em apreender o maximo o possivel sobre Devops
+👀 Estou apreendendo o maximo possivel sobre DevOps
 
 🌱 Atualmente, estou aprendendo como montar uma infraestrutura de Kubernetes com Rancher e K8s em Alta Disponibilidade.
 
 ![rancher-kubernetes-producao](https://user-images.githubusercontent.com/52961166/116400929-9fd20000-a7f8-11eb-8e06-fe9cf393e4a9.png)
 
-💞️ Estou procurando colaborar em ...
-   em bases de conhecimento sobre Docker, Kubernetes, Rancher, etc...
+💞️ Estou procurando sempre colaborar com bases de conhecimento sobre Docker, Kubernetes, Rancher, etc...
    
 📫 Como chegar até mim ... 
+
     Se quiser participar compartilhando conhecimento estou a dispoisição para ajudar.
 
 <!---
