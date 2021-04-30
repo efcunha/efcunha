@@ -8,9 +8,7 @@
 
 💞️ Estou procurando sempre colaborar com bases de conhecimento sobre Docker, Kubernetes, Rancher, etc...
    
-📫 Como chegar até mim ... 
-
-    Se quiser participar compartilhando conhecimento estou a disposição para ajudar.
+📫 Se quiser participar compartilhando conhecimento estou a disposição para ajudar.
 
 <!---
 efcunha/efcunha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
