@@ -1,6 +1,6 @@
 👋 ```Olá, sou Edson F. Cunha```
 
-👀 ```Estou apreendendo o maximo possivel sobre DevOps```
+👀 ```Estou aprendendo o maximo possivel sobre DevOps```
 
 🌱 ```Atualmente, estou aprendendo como montar uma infraestrutura de Kubernetes com Rancher e K8s em Alta Disponibilidade.```
 
