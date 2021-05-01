@@ -11,6 +11,8 @@ Conhecimentos:
 -> AWS
 -> GitHub
 -> Snyk
+-> Linux
+-> Windows Server
 ```
 
 🌱 ```Atualmente, estou aprendendo como montar uma infraestrutura de Kubernetes com Rancher e Kubernetes (K8s) em Alta Disponibilidade.```
