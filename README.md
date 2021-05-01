@@ -5,8 +5,12 @@
 Conhecimentos:
 
 -> Programação (Conhecimentos Basicos NodeJS, Python)
--> Virtualização
+-> Virtualização (XCP-NG, XenServer, Xen)
 -> Segurança de sistema 
+-> Azure
+-> AWS
+-> GitHub
+-> Snyk
 ```
 
 🌱 ```Atualmente, estou aprendendo como montar uma infraestrutura de Kubernetes com Rancher e Kubernetes (K8s) em Alta Disponibilidade.```
