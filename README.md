@@ -3,7 +3,7 @@
 👀 ```Estou aprendendo o máximo possível sobre computação em nuvem pois irei me tornar um "Arquiteto de computação em nuvem"```
 ``` 
 Conhecimentos:
--> Programação (Aprendendo NodeJS, Python)
+-> Programação (Conecimentos Basicos NodeJS, Python)
 -> Virtualização
 -> Segurança de sistema 
 ```
