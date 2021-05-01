@@ -1,6 +1,6 @@
 👋 ```Olá, sou Edson F. Cunha, sou colaborador no TCE/MT como Coordenador de Infraestrutura e Segurança```
 
-👀 ```Estou aprendendo o máximo possível sobre computação em nuvem pois irei me tornar um "Arquiteto de computação em nuvem"```
+👀 ```Estou aprendendo o máximo possível sobre computação em nuvem pois irei me tornar um "Arquiteto de Computação em Nuvem"```
 ``` 
 Conhecimentos:
 
