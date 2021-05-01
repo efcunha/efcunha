@@ -1,8 +1,14 @@
 👋 ```Olá, sou Edson F. Cunha```
 
-👀 ```Estou aprendendo o máximo possível sobre DevOps```
+👀 ```Estou aprendendo o máximo possível sobre computação em nuvem pois irei me tornar um "Arquiteto de computação em nuvem"```
+``` 
+Conhecimentos:
+-> Programação (Aprendendo NodeJS, Python)
+-> Virtualização
+-> Segurança de sistema 
+```
 
-🌱 ```Atualmente, estou aprendendo como montar uma infraestrutura de Kubernetes com Rancher e K8s em Alta Disponibilidade.```
+🌱 ```Atualmente, estou aprendendo como montar uma infraestrutura de Kubernetes com Rancher e Kubernetes (K8s) em Alta Disponibilidade.```
 
 💞️ ```Estou procurando sempre colaborar com bases de conhecimento sobre Docker, Kubernetes, Rancher, etc...```
    
