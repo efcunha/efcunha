@@ -15,7 +15,7 @@ Conhecimentos:
 -> Etc...
 ```
 
-🌱 ```Atualmente, estou aprendendo como montar uma infraestrutura de Kubernetes com Rancher e Kubernetes (K8s) em Alta Disponibilidade.```
+🌱 ```Atualmente, estou aprendendo como montar uma infraestrutura de Kubernetes com Rancher em Alta Disponibilidade.```
 
 💞️ ```Estou procurando sempre colaborar com bases de conhecimento sobre Docker, Kubernetes, Rancher, etc...```
    
