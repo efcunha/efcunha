@@ -25,7 +25,7 @@ Conhecimentos:
 
 ## Iniciando o dia....
 
-Estes são os itens que ao sentar na cadeira de devops, nós iremos fazer um checklist e verificar TODOS:
+Estes são os itens que ao sentar na cadeira, nós iremos fazer um checklist e verificar TODOS:
 
 * Máquinas estão online no virtualizador ou na nuvem?
 * RancherServer está online e acessível?
