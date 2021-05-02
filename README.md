@@ -55,7 +55,7 @@ CASO todos os itens acima tenham sido revisados e estejam OK, dai então podemos
 	* Verificar portas abertas
 	* Verificar logs dos containers nos nós
 	* DNS, propagação de domínio
-* Minha aplicação na sobe
+* Minha aplicação não sobe
 * Os nós do cluster não se comunicam
 * Meu pod está online, mas minha aplicação não
 * Não consigo acessar minha aplicação
