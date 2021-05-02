@@ -24,7 +24,7 @@ Conhecimentos:
 ![rancher-kubernetes-producao](https://user-images.githubusercontent.com/52961166/116400929-9fd20000-a7f8-11eb-8e06-fe9cf393e4a9.png)
 
 ## Iniciando o dia....
-
+``` 
 Estes são os itens que ao sentar na cadeira de devops, nós iremos fazer um checklist e verificar TODOS:
 
 * Máquinas estão online no virtualizador ou na nuvem?
@@ -48,9 +48,9 @@ Itens para ficar atento
 * Consumo excessivo de recursos como CPU ou MEMÓRIO por algum container, pois significa que não foi aplicada a política controle de recursos.
 
 CASO todos os itens acima tenham sido revisados e estejam OK, dai então podemos ir para as aplicações rodando dentro do cluster.
-
+``` 
 ## Principais problemas
-
+``` 
 * Meu cluster não sobe
 	* Verificar portas abertas
 	* Verificar logs dos containers nos nós
@@ -63,14 +63,13 @@ CASO todos os itens acima tenham sido revisados e estejam OK, dai então podemos
 * Onde vejo o monitormento?
 * Onde acompanho os deployment's?
 * Pipeline com problema, como resolvo?
-
+``` 
 ## Referências
 
 [Nirmata - Day 2 Kubernetes!](https://nirmata.com/2020/06/15/what-is-day-2-kubernetes/)
 
 [ITOPS Times - Gerenciando Kubernetes no 2](https://www.itopstimes.com/contain/managing-day-2-kubernetes/)
-
-
+``` 
 O Kubernetes passou do Dia 0 e do Dia 1 e agora está na fase do **Dia 2** para a maioria das empresas. De acordo com Tobi Knaup, co-CEO e cofundador da empresa de gerenciamento nativo da nuvem D2IQ, o Dia 0 é a fase de design e prova de conceito, o Dia 1 é a fase de instalação e implantação e o Dia 2 é quando coisas como monitoramento, manutenção e a solução de problemas entram em jogo. O dia 2 também é quando um aplicativo passa de apenas um projeto de desenvolvimento para uma vantagem estratégica real para o negócio.
 
 A **capacidade de monitoramento** também é importante por causa de todas as tecnologias que interagem com o Kubernetes. Quando você está executando clusters do Kubernetes, muitas vezes ele está sendo implantado junto com uma série de outras tecnologias. De acordo com Knaup, você precisa ser capaz de ter **dados de telemetria ao vivo em todas as partes do sistema** e ser capaz de depurar e diagnosticar problemas e encontrar sua causa raiz. “Todas essas são preocupações que, na verdade, o próprio Kubernetes não resolve”, disse Knaup. “Portanto, você precisa reunir uma pilha inteira de outras tecnologias de código aberto no ecossistema nativo da nuvem, para construir, por exemplo, uma pilha de monitoramento ou para construir uma história de segurança forte.”
@@ -94,7 +93,7 @@ OperatorHub é um índice de operadores da comunidade que são empacotados para 
 Outra coisa que Knaup recomenda que as empresas examinem ao entrar no Dia 2 é o GitOps. Por causa da atual pandemia global, a KubeCon EU foi cancelada, mas de acordo com Knaup, cerca de **20%** das negociações programadas eram sobre GitOps.
 
 GitOps é uma metodologia iniciada em 2017 na Weaveworks. De acordo com a Weaveworks, GitOps usa **“Git como uma única fonte de verdade para infraestrutura declarativa e aplicativos. Com o Git no centro de seus canais de entrega, os desenvolvedores podem fazer solicitações pull para acelerar e simplificar as implantações de aplicativos e tarefas operacionais para o Kubernetes.”**
-
+``` 
 
 <!---
 efcunha/efcunha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
