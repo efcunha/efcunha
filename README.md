@@ -1,6 +1,6 @@
 👋 ```Olá, sou Edson F. Cunha, sou colaborador no TCE/MT como Coordenador de Infraestrutura e Segurança```
 
-👀 ```Estou aprimorando o máximo possível meus conhecimentos em computação em nuvem.
+👀 ```Estou aprimorando o máximo possível meus conhecimentos em computação em nuvem.```
 ``` 
 Conhecimentos:
 
