@@ -4,13 +4,13 @@
 ``` 
 Conhecimentos:
 
--> Kubernetes (K8s) 
--> Docker
--> CI/CD
+-> Kubernetes / Cluster / HA (K8s) 
+-> Docker / Docker Swarm
+-> CI/CD 
 -> Rancher
 -> Azure
 -> AWS
--> GitHub
+-> GitHub / Docker Hub
 -> Snyk
 -> Linux
 -> Programação (Conhecimentos Basicos NodeJS, Python)
