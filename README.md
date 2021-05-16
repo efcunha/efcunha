@@ -1,18 +1,21 @@
 👋 ```Olá, sou Edson F. Cunha, sou colaborador no TCE/MT como Coordenador de Infraestrutura e Segurança```
 
-👀 ```Estou aprendendo o máximo possível sobre computação em nuvem pois irei me tornar um "Arquiteto de Computação em Nuvem"```
+👀 ```Estou aprimorando o máximo possível meus conhecimentos em computação em nuvem.
 ``` 
 Conhecimentos:
 
--> Programação (Conhecimentos Basicos NodeJS, Python)
--> Virtualização (XCP-NG, XenServer, Xen)
--> Segurança de sistema 
+-> Kubernetes (K8s) 
+-> Docker
+-> CI/CD
+-> Rancher
 -> Azure
 -> AWS
 -> GitHub
 -> Snyk
 -> Linux
--> Etc...
+-> Programação (Conhecimentos Basicos NodeJS, Python)
+-> Virtualização (XCP-NG, XenServer, Xen)
+Etc...
 ```
 
 🌱 ```Atualmente, estou aprendendo como montar uma infraestrutura de Rancher v2.5 com Kubernetes K8s em Alta Disponibilidade.```
