@@ -4,7 +4,7 @@
 ``` 
 Conhecimentos:
 
--> Kubernetes / Cluster / HA (K8s) 
+-> Kubernetes / Cluster / HA 
 -> Docker / Docker Swarm
 -> CI/CD 
 -> Rancher
