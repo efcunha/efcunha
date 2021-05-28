@@ -9,7 +9,7 @@ Conhecimentos:
 -> CI/CD 
 -> Rancher
 -> Azure
--> AWS
+-> AWS / GCP
 -> GitHub / Docker Hub
 -> Snyk
 -> Linux
