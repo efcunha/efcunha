@@ -8,8 +8,7 @@ Conhecimentos:
 -> Docker / Docker Swarm
 -> CI/CD 
 -> Rancher
--> Azure
--> AWS / GCP
+-> AWS / GCP / Azure
 -> GitHub / Docker Hub
 -> Snyk
 -> Linux
