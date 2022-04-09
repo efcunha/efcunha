@@ -1,6 +1,6 @@
-👋 ```Olá, sou Edson F. Cunha, sou colaborador no TCE/MT como Coordenador de Infraestrutura e Segurança```
+👋 ``` Olá, sou Edson F. Cunha ```
 
-👀 ```Estou aprimorando o máximo possível meus conhecimentos de DevOps Engineer / Site Reliability Engineering (SRE).```
+👀 ``` Estou aprimorando o máximo possível meus conhecimentos de DevOps Engineer / Site Reliability Engineering (SRE).```
 ``` 
 Conhecimentos:
 
@@ -55,9 +55,9 @@ CASO todos os itens acima tenham sido revisados e estejam OK, dai então podemos
 ## Principais problemas
 
 * Meu cluster não sobe
-	* Verificar portas abertas
-	* Verificar logs dos containers nos nós
-	* DNS, propagação de domínio
+* Verificar portas abertas
+* Verificar logs dos containers nos nós
+* DNS, propagação de domínio
 * Minha aplicação não sobe
 * Os nós do cluster não se comunicam
 * Meu pod está online, mas minha aplicação não
