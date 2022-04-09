@@ -4,6 +4,10 @@
 ``` 
 Conhecimentos:
 
+-> JavaScript (Node,ESNext,HTML,CSS,Ajax,Angular,Gulp,JQyery,React,VueJS)
+-> Python
+-> Banco de Dados Relacionais
+-> Banco de Dados não Relacional
 -> Kubernetes / Cluster / HA 
 -> Docker / Docker Swarm
 -> Kasten K10
