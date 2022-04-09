@@ -1,6 +1,6 @@
 👋 ``` Olá, sou Edson F. Cunha ```
 
-👀 ``` Estou aprimorando o máximo possível meus conhecimentos de DevOps Engineer / Site Reliability Engineering (SRE).```
+👀 ``` Estou aprimorando o máximo possível meus conhecimentos de Desenvolvedor FullStack / DevOps Engineer / Site Reliability Engineering (SRE).```
 ``` 
 Conhecimentos:
 
