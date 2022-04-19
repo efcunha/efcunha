@@ -4,10 +4,15 @@
 ``` 
 Conhecimentos:
 
--> JavaScript (Node,ESNext,HTML,CSS,Ajax,Angular,Gulp,JQyery,React,VueJS)
--> Python
+-> Programação 
+   -> JavaScript,Node,ESNext,HTML,CSS,Ajax,Angular,Gulp,JQyery,React,VueJS,Express
+   -> Python
 -> Banco de Dados Relacionais
+   -> MySQL / MariaDB
+   -> PostgreSQL
 -> Banco de Dados não Relacional
+   -> MongoDB
+   -> NoSQL
 -> Kubernetes / Cluster / HA 
 -> Docker / Docker Swarm
 -> Kasten K10
@@ -17,7 +22,6 @@ Conhecimentos:
 -> GitHub / Docker Hub
 -> Snyk
 -> Linux
--> Programação (Conhecimentos Basicos NodeJS, Python)
 -> Virtualização (XCP-NG, XenServer, Xen)
 Etc...
 ```
