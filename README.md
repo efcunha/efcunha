@@ -1,6 +1,6 @@
 👋 ``` Olá, sou Edson F. Cunha ```
 
-👀 ``` Estou aprimorando o máximo possível meus conhecimentos de Desenvolvedor FullStack / DevOps Engineer ```
+👀 ``` Estou aprimorando o máximo possível meus conhecimentos de Desenvolvedor Full Stack / DevOps Engineer ```
 ``` 
 Conhecimentos:
 
