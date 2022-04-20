@@ -27,7 +27,7 @@ Conhecimentos:
 
 🌱 ```Atualmente, estou implementando meus conhecimentos adquiridos de como montar uma infraestrutura de Rancher v2.6.x com Kubernetes K8s em Alta Disponibilidade.```
 
-✨ ```Portando projetos existentes de sistemas para o ambiente de Cloud```
+✨ ```Portando projetos existentes de sistemas para o ambiente de infraestrutura de Docker e Kubernetes```
 
 💞️ ```Estou procurando sempre colaborar com bases de conhecimento sobre Docker, Kubernetes, Rancher, etc...```
    
