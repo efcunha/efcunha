@@ -16,7 +16,7 @@ Conhecimentos:
 -> Kubernetes / Cluster / HA 
 -> Docker / Docker Swarm
 -> Kasten K10
--> CI/CD (GitLab, ArgoCD)
+-> CI/CD (GitLab, ArgoCD, SonarQube, Sentry, Harbor, Jfrog)
 -> Rancher
 -> AWS / GCP / Azure
 -> GitHub / Docker Hub
