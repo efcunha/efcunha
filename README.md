@@ -23,7 +23,6 @@ Conhecimentos:
 -> Snyk
 -> Linux
 -> Virtualização (XCP-NG, XenServer, Xen)
-Etc...
 ```
 
 🌱 ```Atualmente, estou implementando meus conhecimentos adquiridos de como montar uma infraestrutura de Rancher v2.6.x com Kubernetes K8s em Alta Disponibilidade.```
