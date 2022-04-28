@@ -5,8 +5,19 @@
 Conhecimentos:
 
 -> Programação 
-   -> JavaScript, Node, ESNext, HTML, CSS, Ajax, Angular, Gulp, JQyery, React, VueJS, Express.
+   -> JavaScript (Gulp, JQyery)
+   -> Node
+   -> ESNext
+   -> HTML5
+   -> CSS3
+   -> Ajax
    -> Python
+-> Frameworks  
+   -> Angular
+   -> React
+   -> VueJS
+   -> Bootstrap 
+   -> Express
 -> Banco de Dados Relacionais
    -> MySQL / MariaDB
    -> PostgreSQL
