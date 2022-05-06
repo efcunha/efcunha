@@ -16,9 +16,9 @@ Descobri qual seria minha profissão à partir do meu primeiro contato, na aula 
 
 Há mais de 20 (Vinte) anos, trabalho na area de tecnologia da informação. 
 
-Profissionalmente, já atuei em empresas na área de tecnologia das forças armadas, Lojas de Departamentos, Frigorico e atualmente no Governo do Estado de Mato Grosso https://www.tce.mt.gov.br/.
+Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorico e atualmente no Governo do Estado de Mato Grosso https://www.tce.mt.gov.br/.
 
-Atualmente, trabalho ajudando empresas no processo de transformação digital, através do desenvolvimento de software com tecnologias modernas como, por exemplo, JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc.
+Atualmente, trabalho ajudando no processo de transformação digital, através do desenvolvimento de software com tecnologias modernas como, por exemplo, JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc.
 
 Sou realizado e apaixonado pelo que faço. 
 
