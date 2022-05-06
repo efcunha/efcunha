@@ -222,7 +222,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
       </td>
       <td width="20%" align="center">
         <span>Snyk</span><br><br><br>
-        <img height="64px" src="https://miro.medium.com/max/1200/1*1BpMZNLrn4wThTOQWduXrw.png">
+        <img height="64px" src="https://www.trendmicro.com/content/dam/trendmicro/global/en/business/rt/lp/trend-snyk-logo.svg">
       </td>
     </tr>
   </tbody>
