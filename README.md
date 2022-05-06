@@ -297,6 +297,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <span>Xen</span><br><br><br>
         <img height="64px" src="https://img2.gratispng.com/20180605/rxe/kisspng-xen-virtualization-hypervisor-kernel-based-virtual-xen-cloud-platform-5b172e33a38281.5672430315282458116698.jpg">
       </td>
+    </tr>
   </tbody>
 </table>
 
