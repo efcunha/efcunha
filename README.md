@@ -10,7 +10,7 @@ No periodo de Fevereiro de 1986 - Outubro de 1989
 
 ## Sobre mim... ##
 
-Eu sou Edson F. Cunha, especialista em infraestrutura mais hoje me dedico a area de DevOps e desenvolvedor Full Stack. 
+Eu sou Edson F. Cunha, antes especialista em infraestrutura mais hoje me dedico a area de DevOps e Desenvolvedor Full Stack. 
 
 Descobri qual seria minha profissão à partir do meu primeiro contato, na aula de programação do curso técnico, no ensino médio.
 
