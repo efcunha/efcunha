@@ -58,15 +58,15 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>VueJS</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
         <span>React</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
         <span>AngularJS</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
         <span>Bootstrap</span><br><br><br>
@@ -74,11 +74,11 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
       </td>
       <td width="20%" align="center">
         <span>CSS3</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
       </td>
         <td width="20%" align="center">
         <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
       </td>
     </tr>
   </tbody>
@@ -91,15 +91,15 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>NodeJS</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
         <span>Spring</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+        <img height="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>Express</span><br><br><br>
-        <img height="64px" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg">
+        <img height="50px" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg">
       </td>
     </tr>
   </tbody>
@@ -113,7 +113,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
         <span>MariaDB</span><br><br><br>
@@ -121,15 +121,15 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
       </td>
       <td width="20%" align="center">
         <span>PostgreSQL</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
         <span>Oracle</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
       </td>
       <td width="20%" align="center">
         <span>Redis</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
       </td>
     </tr>
   </tbody>
@@ -142,11 +142,11 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>Kibane</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg">
+        <img height="50px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>Grafana</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+        <img height="50px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
       </td>
     </tr>
   </tbody>
@@ -159,19 +159,19 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>Rancher</span><br><br><br>
-        <img height="64px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/12/Rancher-Logo.png">
+        <img height="50px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/12/Rancher-Logo.png">
       </td>
       <td width="20%" align="center">
         <span>Kubernetes</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+        <img height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>Docker</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
         <span>Kasten K10</span><br><br><br>
-        <img height="64px" src="https://www.luizpessol.com.br/wp-content/uploads/2021/07/kasten_k10_by_veeam-768x243.png">
+        <img height="50px" src="https://www.luizpessol.com.br/wp-content/uploads/2021/07/kasten_k10_by_veeam-768x243.png">
       </td>
     </tr>
   </tbody>
@@ -184,23 +184,23 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>GitLab</span><br><br><br>
-        <img height="64px" src="https://mlohrktvfr9b.i.optimole.com/scftOdE.tVDx~16b5e/w:500/h:500/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/340-adesivo-Gitlab-Nerd-Stickers.png">
+        <img height="50px" src="https://mlohrktvfr9b.i.optimole.com/scftOdE.tVDx~16b5e/w:500/h:500/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/340-adesivo-Gitlab-Nerd-Stickers.png">
       </td>
       <td width="20%" align="center">
         <span>ArgoCD</span><br><br><br>
-        <img height="64px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png">
+        <img height="50px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png">
       </td>
       <td width="20%" align="center">
         <span>SonarQube</span><br><br><br>
-        <img height="64px" src="https://cdn.aimultiple.com/media/sonarqube.png">
+        <img height="50px" src="https://cdn.aimultiple.com/media/sonarqube.png">
       </td>
       <td width="20%" align="center">
         <span>Sentry</span><br><br><br>
-        <img height="64px" src="https://www.sentry.com.br/assets/img/slides/simbol-gr.png">
+        <img height="50px" src="https://www.sentry.com.br/assets/img/slides/simbol-gr.png">
       </td>
       <td width="20%" align="center">
         <span>Harbor</span><br><br><br>
-        <img height="64px" src="https://goharbor.io/img/logos/harbor-icon-color.png">
+        <img height="50px" src="https://goharbor.io/img/logos/harbor-icon-color.png">
       </td>
     </tr>
   </tbody>
@@ -210,19 +210,19 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">	  
       <td width="20%" align="center">
         <span>JFrog</span><br><br><br>
-        <img height="64px" src="https://www.purestorage.com/content/dam/purestorage/online-assets/logos/p-jfrog-fc.svg.imgo.svg">
+        <img height="50px" src="https://www.purestorage.com/content/dam/purestorage/online-assets/logos/p-jfrog-fc.svg.imgo.svg">
       </td>
       <td width="20%" align="center">
         <span>GitHub</span><br><br><br>
-        <img height="64px" src="https://samory.sistemasresponsivos.com.br/wp-content/uploads/2020/08/Octocat.png">
+        <img height="50px" src="https://samory.sistemasresponsivos.com.br/wp-content/uploads/2020/08/Octocat.png">
       </td>
       <td width="20%" align="center">
         <span>Docker Hub</span><br><br><br>
-        <img height="64px" src="https://www.jhipster.tech/images/logo/docker-hub.png">
+        <img height="50px" src="https://www.jhipster.tech/images/logo/docker-hub.png">
       </td>
       <td width="20%" align="center">
         <span>Snyk</span><br><br><br>
-        <img height="64px" src="https://www.trendmicro.com/content/dam/trendmicro/global/en/business/rt/lp/trend-snyk-logo.svg">
+        <img height="50px" src="https://www.trendmicro.com/content/dam/trendmicro/global/en/business/rt/lp/trend-snyk-logo.svg">
       </td>
     </tr>
   </tbody>
@@ -235,15 +235,15 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>AWS</span><br><br><br>
-        <img height="64px" src="https://vempranuvem.files.wordpress.com/2015/06/aws-amazon-web-services.png">
+        <img height="50px" src="https://vempranuvem.files.wordpress.com/2015/06/aws-amazon-web-services.png">
       </td>
       <td width="20%" align="center">
         <span>CGP</span><br><br><br>
-        <img height="64px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=pt-br">
+        <img height="50px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=pt-br">
       </td>
       <td width="20%" align="center">
         <span>Azure</span><br><br><br>
-        <img height="64px" src="https://www.solarwinds.com/-/media/solarwinds/swdcv2/licensed-products/service-desk/integrations/sd-integrations-logo-azure-standard-size.ashx?rev=3282273e2a5242bb91a627723b25608e&hash=88B38AECE68B2658C84675BEC75FF2E9">
+        <img height="50px" src="https://www.solarwinds.com/-/media/solarwinds/swdcv2/licensed-products/service-desk/integrations/sd-integrations-logo-azure-standard-size.ashx?rev=3282273e2a5242bb91a627723b25608e&hash=88B38AECE68B2658C84675BEC75FF2E9">
       </td>
     </tr>
   </tbody>
@@ -256,7 +256,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>Linux</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png">
+        <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png">
       </td>
   </tbody>
 </table>
@@ -268,7 +268,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>Windows</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/pt/e/e0/Windows_logo.png">
+        <img height="50px" src="https://upload.wikimedia.org/wikipedia/pt/e/e0/Windows_logo.png">
       </td>
   </tbody>
 </table>
@@ -280,19 +280,19 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>Harvester</span><br><br><br>
-        <img height="64px" src="https://www.suse.com/c/wp-content/uploads/2021/03/Harvester-Symbol.png">
+        <img height="50px" src="https://www.suse.com/c/wp-content/uploads/2021/03/Harvester-Symbol.png">
       </td>
       <td width="20%" align="center">
         <span>XCP-NG</span><br><br><br>
-        <img height="64px" src="https://www.shapeblue.com/wp-content/uploads/2020/10/xcp.jpg">
+        <img height="50px" src="https://www.shapeblue.com/wp-content/uploads/2020/10/xcp.jpg">
       </td>
       <td width="20%" align="center">
         <span>Citrix XenServer</span><br><br><br>
-        <img height="64px" src="https://i1.wp.com/www.bacula.lat/wp-content/uploads/2019/05/xenlogo-350x250.png">
+        <img height="50px" src="https://i1.wp.com/www.bacula.lat/wp-content/uploads/2019/05/xenlogo-350x250.png">
       </td>
       <td width="20%" align="center">
         <span>Xen</span><br><br><br>
-        <img height="64px" src="https://img2.gratispng.com/20180605/rxe/kisspng-xen-virtualization-hypervisor-kernel-based-virtual-xen-cloud-platform-5b172e33a38281.5672430315282458116698.jpg">
+        <img height="50px" src="https://img2.gratispng.com/20180605/rxe/kisspng-xen-virtualization-hypervisor-kernel-based-virtual-xen-cloud-platform-5b172e33a38281.5672430315282458116698.jpg">
       </td>
     </tr>
   </tbody>
