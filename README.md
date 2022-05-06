@@ -202,6 +202,12 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <span>Harbor</span><br><br><br>
         <img height="64px" src="https://goharbor.io/img/logos/harbor-icon-color.png">
       </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr valign="top">	  
       <td width="20%" align="center">
         <span>JFrog</span><br><br><br>
         <img height="64px" src="https://www.purestorage.com/content/dam/purestorage/online-assets/logos/p-jfrog-fc.svg.imgo.svg">
@@ -209,7 +215,6 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     </tr>
   </tbody>
 </table>
-
 
 
    -> AWS / GCP / Azure
