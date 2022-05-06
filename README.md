@@ -85,12 +85,33 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
   </tbody>
 </table>
 
-```
--> Backend:
+## Backend:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Spring</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+      </td>
+      <t
+    </tr>
+  </tbody>
+</table>
+
    -> NodeJS
    -> Spring
    -> Express
    
+```
 -> Banco de Dados:
    -> MySQL
    -> MariaDB
