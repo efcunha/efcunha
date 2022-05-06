@@ -99,8 +99,8 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <img height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://miro.medium.com/max/1400/0*r1BTGwo9cd8IGNQQ.jpeg">
+        <span>Express</span><br><br><br>
+        <img height="64px" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg">
       </td>
       <t
     </tr>
