@@ -100,7 +100,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
       </td>
       <td width="20%" align="center">
         <span>Python</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+        <img height="64px" src="https://miro.medium.com/max/1400/0*r1BTGwo9cd8IGNQQ.jpeg">
       </td>
       <t
     </tr>
