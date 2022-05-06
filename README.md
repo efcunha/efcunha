@@ -212,14 +212,43 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <span>JFrog</span><br><br><br>
         <img height="64px" src="https://www.purestorage.com/content/dam/purestorage/online-assets/logos/p-jfrog-fc.svg.imgo.svg">
       </td>
+      <td width="20%" align="center">
+        <span>GitHub</span><br><br><br>
+        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Docker Hub</span><br><br><br>
+        <img height="64px" src="https://gitlab.com/uploads/-/system/project/avatar/22180576/dockerhub.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Snyk</span><br><br><br>
+        <img height="64px" src="https://miro.medium.com/max/1200/1*1BpMZNLrn4wThTOQWduXrw.png">
+      </td>
     </tr>
   </tbody>
 </table>
 
+## Infraestrutura de Cloud
 
-   -> AWS / GCP / Azure
-   -> GitHub / Docker Hub
-   -> Snyk
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://vempranuvem.files.wordpress.com/2015/06/aws-amazon-web-services.png">
+      </td>
+      <td width="20%" align="center">
+        <span>CGP</span><br><br><br>
+        <img height="64px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=pt-br">
+      </td>
+      <td width="20%" align="center">
+        <span>Azure</span><br><br><br>
+        <img height="64px" src="https://www.solarwinds.com/-/media/solarwinds/swdcv2/licensed-products/service-desk/integrations/sd-integrations-logo-azure-standard-size.ashx?rev=3282273e2a5242bb91a627723b25608e&hash=88B38AECE68B2658C84675BEC75FF2E9">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ```
 -> Outros:
