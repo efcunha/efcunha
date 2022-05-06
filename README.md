@@ -14,7 +14,7 @@ Eu sou Edson F. Cunha, antes especialista em infraestrutura mais hoje me dedico 
 
 Descobri qual seria minha profissão à partir do meu primeiro contato, na aula de programação do curso técnico, no ensino médio.
 
-Há mais de 20 (Vinte) anos, trabalho na area de tecnologia da informação  desenvolvimento de softwares. 
+Há mais de 20 (Vinte) anos, trabalho na area de tecnologia da informação. 
 
 Profissionalmente, já atuei em empresas na área de tecnologia das forças armadas, Lojas de Departamentos, Frigorico e atualmente no Governo do Estado de Mato Grosso https://www.tce.mt.gov.br/.
 
