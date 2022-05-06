@@ -288,7 +288,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
       </td>
       <td width="20%" align="center">
         <span>Citrix XenServer</span><br><br><br>
-        <img height="50px" src="https://i1.wp.com/www.bacula.lat/wp-content/uploads/2019/05/xenlogo-350x250.png">
+        <img height="50px" src="https://www.fastti.com/wp-content/uploads/2017/08/XenServer.png">
       </td>
       <td width="20%" align="center">
         <span>Xen</span><br><br><br>
