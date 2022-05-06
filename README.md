@@ -249,11 +249,21 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
   </tbody>
 </table>
 
+## Linux (RedHat,Centos,Ubuntu,Debian)
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Linux</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png">
+      </td>
+  </tbody>
+</table>
+
 
 ```
--> Outros:
-   -> Linux
-   -> Windows Server
+-> Windows Server
    -> Virtualização (XCP-NG, XenServer, Xen)
 ```
 
