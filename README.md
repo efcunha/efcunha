@@ -52,18 +52,40 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
   </tbody>
 </table>
 
-   -> JavaScript
-   -> TypeScript
-   -> Python
+## Frontend:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>VueJS</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>AngularJS</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>CSS3</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+      </td>
+	    <td width="20%" align="center">
+        <span>HTML5</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ```
--> Frontend:
-   -> Vue.js
-   -> React
-   -> AngularJS
-   -> Bootstrap
-   -> CSS3
-   -> HTML5
-   
 -> Backend:
    -> NodeJS
    -> Spring
