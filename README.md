@@ -107,17 +107,43 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
   </tbody>
 </table>
 
-   -> NodeJS
-   -> Spring
-   -> Express
    
-```
--> Banco de Dados:
+## Banco de Dados:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>MariaDB</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Oracle</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Redis</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
    -> MySQL
    -> MariaDB
    -> PostgreSQL
    -> Oracle
-   
+
+
+```
 -> Visualização de Dados:
    -> Kibana
    -> Grafana
