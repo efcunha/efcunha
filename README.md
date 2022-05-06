@@ -141,7 +141,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
       </td>
       <td width="20%" align="center">
         <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://devkico.itexto.com.br/wp-content/uploads/2010/04/logo-mongodb-onwhite.png">
+        <img height="64px" src="https://www.tremplin-numerique.org/wp-content/uploads/2021/01/Comment-sauvegarder-et-migrer-une-base-de-donnees-MongoDB.png">
       </td>
     </tr>
   </tbody>
