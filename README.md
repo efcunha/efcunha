@@ -282,17 +282,14 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <span>XCP-NG</span><br><br><br>
         <img height="64px" src=" https://www.suse.com/c/wp-content/uploads/2021/03/Harvester-Symbol.png">
       </td>
-    <tr valign="top">
       <td width="20%" align="center">
         <span>XCP-NG</span><br><br><br>
         <img height="64px" src="https://www.shapeblue.com/wp-content/uploads/2020/10/xcp.jpg">
       </td>
-    <tr valign="top">
       <td width="20%" align="center">
         <span>Citrix XenServer</span><br><br><br>
         <img height="64px" src="https://i1.wp.com/www.bacula.lat/wp-content/uploads/2019/05/xenlogo-350x250.png">
       </td>
-    <tr valign="top">
       <td width="20%" align="center">
         <span>Xen</span><br><br><br>
         <img height="64px" src="https://img2.gratispng.com/20180605/rxe/kisspng-xen-virtualization-hypervisor-kernel-based-virtual-xen-cloud-platform-5b172e33a38281.5672430315282458116698.jpg">
