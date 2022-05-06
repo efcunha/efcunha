@@ -4,16 +4,48 @@
 ``` 
 ## Meus Conhecimentos 🛠
 
--> Kubernetes / Cluster / HA 
--> Docker / Docker Swarm
--> Kasten K10
--> CI/CD (GitLab, ArgoCD, SonarQube, Sentry, Harbor, Jfrog)
--> Rancher
--> AWS / GCP / Azure
--> GitHub / Docker Hub
--> Snyk
--> Linux
--> Virtualização (XCP-NG, XenServer, Xen)
+-> Linguages:
+   -> JavaScript
+   -> TypeScript
+   -> Python
+
+-> Frontend:
+   -> Vue.js
+   -> React
+   -> AngularJS
+   -> Bootstrap
+   -> CSS3
+   -> HTML5
+   
+-> Backend:
+   -> NodeJS
+   -> Spring
+   -> Express
+   
+-> Banco de Dados:
+   -> MySQL
+   -> MariaDB
+   -> PostgreSQL
+   -> Oracle
+   
+-> Visualização de Dados:
+   -> Kibana
+   -> Grafana
+   
+-> Devops:
+   -> Kubernetes 
+   -> Docker 
+   -> Kasten K10
+   -> CI/CD (GitLab, ArgoCD, SonarQube, Sentry, Harbor, Jfrog)
+   -> Rancher
+   -> AWS / GCP / Azure
+   -> GitHub / Docker Hub
+   -> Snyk
+
+-> Outros:
+   -> Linux
+   -> Windows Server
+   -> Virtualização (XCP-NG, XenServer, Xen)
 ```
 
 🌱 ```Atualmente, estou implementando meus conhecimentos adquiridos de como montar uma infraestrutura de Rancher v2.6.x com Kubernetes K8s em Alta Disponibilidade.```
