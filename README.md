@@ -47,6 +47,14 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <span>Python</span><br><br><br>
         <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       </td>
+      <td width="20%" align="center">
+        <span>ESNext</span><br><br><br>
+        <img height="64px" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png">
+      </td>
+      <td width="20%" align="center">
+        <span>JQuery</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/JQuery_logo_text.svg/800px-JQuery_logo_text.svg.png">
+      </td>      
     </tr>
   </tbody>
 </table>
@@ -106,7 +114,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
 </table>
 
    
-## Banco de Dados:
+## Banco de Dados (Relacional e não Relacional):
 
 <table>
   <tbody>
@@ -130,6 +138,10 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
       <td width="20%" align="center">
         <span>Redis</span><br><br><br>
         <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://devkico.itexto.com.br/wp-content/uploads/2010/04/logo-mongodb-onwhite.png">
       </td>
     </tr>
   </tbody>
