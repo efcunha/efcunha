@@ -1,6 +1,6 @@
 👋 ``` Olá, bem vindo ao meu perfil ```
 
-Sou formado pela instituição:
+# Sou formado pela instituição:
 ```
 Centro Estadual de Educação Tecnológica Paula Souza
 Vinculado e Associado
@@ -9,7 +9,7 @@ Curso Superior de Tecnologia em Processamento de Dados e Tecnologia de Processam
 No periodo de Fevereiro de 1986 - Outubro de 1989 
 ```
 ## Sobre mim... ##
-```
+
 Eu sou Edson F. Cunha, antes especialista em infraestrutura mais hoje me dedico a area de DevOps e Desenvolvedor Full Stack. 
 
 Descobri qual seria minha profissão à partir do meu primeiro contato, na aula de programação do curso técnico, no ensino médio.
@@ -23,7 +23,6 @@ Atualmente, trabalho ajudando empresas no processo de transformação digital, a
 Sou realizado e apaixonado pelo que faço. Frequentemente, atualizo-me em novas tecnologias.
 
 Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
-```
 
 👀 ``` Estou aprimorando o máximo possível meus conhecimentos de Desenvolvedor Full Stack / DevOps Engineer ```
 ``` 
