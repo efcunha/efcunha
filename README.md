@@ -33,7 +33,7 @@
    -> Grafana
    
 -> Devops:
-   -> (https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) Kubernetes 
+   -> ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) Kubernetes 
    -> Docker 
    -> Kasten K10
    -> CI/CD (GitLab, ArgoCD, SonarQube, Sentry, Harbor, Jfrog)
