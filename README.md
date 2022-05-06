@@ -33,7 +33,8 @@
    -> Grafana
    
 -> Devops:
-   -> ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) Kubernetes 
+   -> ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b756265726e657465732d3332366365352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/52961166/167203573-717e22e0-dacb-4141-ae09-b23f63f38748.svg)
+Kubernetes 
    -> Docker 
    -> Kasten K10
    -> CI/CD (GitLab, ArgoCD, SonarQube, Sentry, Harbor, Jfrog)
