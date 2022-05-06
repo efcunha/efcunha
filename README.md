@@ -31,6 +31,27 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
 ## Meus Conhecimentos 🛠
 
 -> Linguages:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      </td>
+      <t
+    </tr>
+  </tbody>
+</table>
+
    -> JavaScript
    -> TypeScript
    -> Python
