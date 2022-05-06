@@ -152,17 +152,71 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
   </tbody>
 </table>
 
-```
--> Devops:
-   -> Kubernetes 
-   -> Docker 
-   -> Kasten K10
-   -> CI/CD (GitLab, ArgoCD, SonarQube, Sentry, Harbor, Jfrog)
-   -> Rancher
+## Devops:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Rancher</span><br><br><br>
+        <img height="64px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/12/Rancher-Logo.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Kubernetes</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Kasten K10</span><br><br><br>
+        <img height="64px" src="https://www.luizpessol.com.br/wp-content/uploads/2021/07/kasten_k10_by_veeam-768x243.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## CI/CD 
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>GitLab</span><br><br><br>
+        <img height="64px" src="https://mlohrktvfr9b.i.optimole.com/scftOdE.tVDx~16b5e/w:500/h:500/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/340-adesivo-Gitlab-Nerd-Stickers.png">
+      </td>
+      <td width="20%" align="center">
+        <span>ArgoCD</span><br><br><br>
+        <img height="64px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png">
+      </td>
+      <td width="20%" align="center">
+        <span>SonarQube</span><br><br><br>
+        <img height="64px" src="https://cdn.aimultiple.com/media/sonarqube.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Sentry</span><br><br><br>
+        <img height="64px" src="https://www.sentry.com.br/assets/img/slides/simbol-gr.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Harbor</span><br><br><br>
+        <img height="64px" src="https://goharbor.io/img/logos/harbor-icon-color.png">
+      </td>
+      <td width="20%" align="center">
+        <span>JFrog</span><br><br><br>
+        <img height="64px" src="https://www.purestorage.com/content/dam/purestorage/online-assets/logos/p-jfrog-fc.svg.imgo.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
    -> AWS / GCP / Azure
    -> GitHub / Docker Hub
    -> Snyk
 
+```
 -> Outros:
    -> Linux
    -> Windows Server
