@@ -280,7 +280,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>XCP-NG</span><br><br><br>
-        <img height="64px" src=" https://www.suse.com/c/wp-content/uploads/2021/03/Harvester-Symbol.png">
+        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/178/178158.png">
       </td>
       <td width="20%" align="center">
         <span>XCP-NG</span><br><br><br>
