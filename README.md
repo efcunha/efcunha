@@ -218,7 +218,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
       </td>
       <td width="20%" align="center">
         <span>Docker Hub</span><br><br><br>
-        <img height="64px" src="https://gitlab.com/uploads/-/system/project/avatar/22180576/dockerhub.png">
+        <img height="64px" src="https://www.jhipster.tech/images/logo/docker-hub.png">
       </td>
       <td width="20%" align="center">
         <span>Snyk</span><br><br><br>
