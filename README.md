@@ -29,8 +29,8 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
 👀 ``` Estou aprimorando o máximo possível meus conhecimentos de Desenvolvedor Full Stack / DevOps Engineer ```
 ``` 
 ## Meus Conhecimentos 🛠
-
--> Linguages:
+```
+## Linguages:
 
 <table>
   <tbody>
@@ -55,7 +55,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
    -> JavaScript
    -> TypeScript
    -> Python
-
+```
 -> Frontend:
    -> Vue.js
    -> React
