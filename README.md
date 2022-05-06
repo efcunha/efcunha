@@ -27,9 +27,9 @@ Frequentemente, atualizo-me em novas tecnologias.
 Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
 
 👀 ``` Estou aprimorando o máximo possível meus conhecimentos de Desenvolvedor Full Stack / DevOps Engineer ```
-``` 
-## Meus Conhecimentos 🛠
-```
+
+## Meus Conhecimentos
+
 ## Linguages:
 
 <table>
