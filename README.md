@@ -214,7 +214,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
       </td>
       <td width="20%" align="center">
         <span>GitHub</span><br><br><br>
-        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+        <img height="64px" src="https://samory.sistemasresponsivos.com.br/wp-content/uploads/2020/08/Octocat.png">
       </td>
       <td width="20%" align="center">
         <span>Docker Hub</span><br><br><br>
