@@ -287,7 +287,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <img height="50px" src="https://www.shapeblue.com/wp-content/uploads/2020/10/xcp.jpg">
       </td>
       <td width="20%" align="center">
-        <span>Citrix XenServer</span><br><br><br>
+        <span>XenServer</span><br><br><br>
         <img height="50px" src="https://www.fastti.com/wp-content/uploads/2017/08/XenServer.png">
       </td>
       <td width="20%" align="center">
