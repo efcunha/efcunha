@@ -47,7 +47,6 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <span>Python</span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       </td>
-      <t
     </tr>
   </tbody>
 </table>
@@ -77,7 +76,7 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <span>CSS3</span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
       </td>
-	    <td width="20%" align="center">
+        <td width="20%" align="center">
         <span>HTML5</span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
       </td>
@@ -102,7 +101,6 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
         <span>Express</span><br><br><br>
         <img height="64px" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg">
       </td>
-      <t
     </tr>
   </tbody>
 </table>
@@ -137,17 +135,24 @@ Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
   </tbody>
 </table>
 
-   -> MySQL
-   -> MariaDB
-   -> PostgreSQL
-   -> Oracle
+## Visualização de Dados:
 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Kibane</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Grafana</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ```
--> Visualização de Dados:
-   -> Kibana
-   -> Grafana
-   
 -> Devops:
    -> Kubernetes 
    -> Docker 
