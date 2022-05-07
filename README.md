@@ -278,7 +278,7 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
 </table>
 
 ## Windows Server 
-## 2012 R2, 2016, 2019
+## Versões 2012 R2, 2016, 2019
 
 <table>
   <tbody>
@@ -290,7 +290,8 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
   </tbody>
 </table>
 
-## Virtualização (XCP-NG, XenServer, Xen)
+## Virtualização 
+## Harvester, XCP-NG, XenServer, Xen
 
 <table>
   <tbody>
