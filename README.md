@@ -19,6 +19,7 @@ Há mais de 20 (Vinte) anos, trabalho na area de tecnologia da informação.
 Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorico e atualmente no Governo do Estado de Mato Grosso https://www.tce.mt.gov.br/.
 
 Hoje sou um Desenvolvedor Junior com menos de 1(Um) ano de experiencia na area de programação, mais tenho focado em estudar e aprender uma gama de ferramentas, 
+
 Por exemplo:
 JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc...
 
