@@ -22,6 +22,10 @@ Hoje sou um Desenvolvedor Junior com menos de 1(Um) ano de experiência na área
 
 Por exemplo: JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc...
 
+Agora participo de alguns projetos com tarefas de complexidade menor, sem tantas exigências.
+
+Atualmente participando do planejamento de projetos por ter uma experiência vasta dando os direcionamentos, explicando, revisando algumas tarefas, com isto vou conseguindo me desenvolver melhor na área de desenvolvimento, sendo que também por estudar varias plataformas e entender onde cada uma possa ser utilizada dentro de uma infraestrutura cloud ou on premise.
+
 Sou realizado e apaixonado pelo que faço.
 
 Frequentemente, atualizo-me em novas tecnologias.
