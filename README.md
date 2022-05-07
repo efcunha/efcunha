@@ -18,13 +18,14 @@ Há mais de 20 (Vinte) anos, trabalho na area de tecnologia da informação.
 
 Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorico e atualmente no Governo do Estado de Mato Grosso https://www.tce.mt.gov.br/.
 
-Atualmente, trabalho ajudando no processo de transformação digital, através do desenvolvimento de software com tecnologias modernas como, por exemplo, JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc.
+Hoje sou um Desenvolvedor Junior com menos de 1(Um) ano de experiencia na area de programação, mais tenho focado em estudar e aprender uma gama de ferramentas, por exemplo:
+JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc...
 
 Sou realizado e apaixonado pelo que faço. 
 
 Frequentemente, atualizo-me em novas tecnologias.
 
-Busco desenvolver-me na liderança técnica de times de desenvolvimento ágil.
+Busco desenvolver-me nos times de desenvolvimento ágil.
 
 👀 ``` Estou aprimorando o máximo possível meus conhecimentos de Desenvolvedor Full Stack / DevOps Engineer ```
 
