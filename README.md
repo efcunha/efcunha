@@ -264,7 +264,8 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
   </tbody>
 </table>
 
-## Linux (RedHat,Centos,Ubuntu,Debian)
+## Linux 
+## RedHat,Centos,Ubuntu,Debian
 
 <table>
   <tbody>
@@ -276,7 +277,8 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
   </tbody>
 </table>
 
-## Windows Server (2012 R2, 2016, 2019)
+## Windows Server 
+## 2012 R2, 2016, 2019
 
 <table>
   <tbody>
