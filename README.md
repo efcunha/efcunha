@@ -10,20 +10,19 @@ No periodo de Fevereiro de 1986 - Outubro de 1989
 ```
 ## Sobre mim... ##
 
-Eu sou Edson F. Cunha, antes especialista em infraestrutura mais hoje me dedico a area de DevOps e Desenvolvedor Full Stack. 
+Eu sou Edson F. Cunha, antes especialista em infraestrutura mais hoje me dedico a área de DevOps e Desenvolvedor FullStack.
 
 Descobri qual seria minha profissão à partir do meu primeiro contato, na aula de programação do curso técnico, no ensino médio.
 
-Há mais de 20 (Vinte) anos, trabalho na area de tecnologia da informação. 
+Há mais de 20 (Vinte) anos, trabalho na área de tecnologia da informação.
 
-Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorico e atualmente no Governo do Estado de Mato Grosso https://www.tce.mt.gov.br/.
+Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorifico e atualmente no Governo do Estado de Mato Grosso https://www.tce.mt.gov.br/.
 
-Hoje sou um Desenvolvedor Junior com menos de 1(Um) ano de experiencia na area de programação, mais tenho focado em estudar e aprender uma gama de ferramentas, 
+Hoje sou um Desenvolvedor Junior com menos de 1(Um) ano de experiência na área de programação, mais tenho focado em estudar e aprender uma gama de ferramentas,
 
-Por exemplo:
-JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc...
+Por exemplo: JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc...
 
-Sou realizado e apaixonado pelo que faço. 
+Sou realizado e apaixonado pelo que faço.
 
 Frequentemente, atualizo-me em novas tecnologias.
 
