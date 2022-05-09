@@ -80,7 +80,7 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
       </td>
       <td width="20%" align="center">
         <span>AngularJS</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg">
+        <img height="50px" src="https://devporai.com.br/wp-content/uploads/2020/06/Copy-of-Copy-of-Travel-Photography.png">
       </td>
       <td width="20%" align="center">
         <span>Bootstrap</span><br><br><br>
