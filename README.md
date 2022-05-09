@@ -319,13 +319,13 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
   </tbody>
 </table>
 
-🌱 ```Atualmente, estou implementando meus conhecimentos adquiridos de como montar uma infraestrutura de Rancher v2.6.x com Kubernetes K8s em Alta Disponibilidade.```
-
-✨ ```Portando projetos existentes de sistemas para o ambiente de infraestrutura de Docker e Kubernetes```
-
 💞️ ```Estou procurando sempre colaborar com bases de conhecimento sobre Docker, Kubernetes, Rancher, etc...```
    
 📫 ```Se quiser participar compartilhando conhecimento estou a disposição para ajudar.```
+
+🌱 ```Atualmente, estou implementando meus conhecimentos adquiridos de como montar uma infraestrutura de Rancher v2.6.x com Kubernetes K8s em Alta Disponibilidade.```
+
+✨ ```Portando projetos existentes de sistemas para o ambiente de infraestrutura de Docker e Kubernetes```
 
 ![rancher-kubernetes-producao](https://user-images.githubusercontent.com/52961166/116400929-9fd20000-a7f8-11eb-8e06-fe9cf393e4a9.png)
 
