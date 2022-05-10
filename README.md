@@ -49,10 +49,12 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
         <span>TypeScript</span><br><br><br>
         <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       </td>
+      <--
       <td width="20%" align="center">
         <span>Python</span><br><br><br>
         <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       </td>
+      -->
       <td width="20%" align="center">
         <span>ESNext</span><br><br><br>
         <img height="64px" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png">
