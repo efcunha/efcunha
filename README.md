@@ -1,5 +1,11 @@
 👋 ```  Olá, bem vindo ao meu perfil ```
 
+
+[![Linkedin: Edson F. Cunha](https://img.shields.io/badge/-efcunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efcunha/)](https://www.linkedin.com/in/efcunha/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edsonfcunha68@gmail.com)](mailto:edsonfcunha68@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)](https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=efcunha)
+
 ## Sou formado pela instituição: ##
 ```
 Centro Estadual de Educação Tecnológica Paula Souza
