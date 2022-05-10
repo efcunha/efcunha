@@ -3,7 +3,6 @@
 
 [![Linkedin: Edson F. Cunha](https://img.shields.io/badge/-efcunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edcunha/)](https://www.linkedin.com/in/edcunha/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)](https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=efcunha)
 
 ## Sou formado pela instituição: ##
 ```
