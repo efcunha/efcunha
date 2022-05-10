@@ -40,7 +40,7 @@
 </div>  
 <br/>  
 
-## Se quiser entrar em contato comigo:
+## Se quiser entrar em contato:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)](https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)
 
 ## Sobre mim... ##
