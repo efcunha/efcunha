@@ -16,7 +16,8 @@
   </em>
 </p>
 
-## Connect with me  
+<h2> Conecte-se comigo </h2>
+</br>
 <div align="center">
 <a href="https://github.com/efcunha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -39,6 +40,7 @@
 </div>  
 <br/>  
 
+## Se quiser entrar em contato comigo:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)](https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)
 
 ## Sobre mim... ##
