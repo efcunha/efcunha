@@ -20,7 +20,7 @@
 
 ## Sobre mim... ##
 
-Eu sou Edson F. Cunha, antes especialista em infraestrutura mais hoje me dedico a área de DevOps e Desenvolvedor FullStack.
+Eu sou Edson F. Cunha, especialista em infraestrutura mais hoje me dedico a área de DevOps e Desenvolvedor FullStack.
 
 Descobri qual seria minha profissão à partir do meu primeiro contato, na aula de programação do curso técnico, no ensino médio.
 
