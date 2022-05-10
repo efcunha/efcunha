@@ -1,17 +1,24 @@
-👋 ``` Hello, welcome to my profile ```
-
+<h2> Hello, welcome to my profile! </h2>
+<img align='right' src="https://gaea.com.br/wp-content/uploads/2016/06/Como_buscar_maior_qualidade_no_desenvolvimento_de_software.jpg.jpeg" width="230">
+<p>
+  <em>
+    <h2> I am a graduate of the institution: </h2>
+    Paula Souza State Technological Education Center
+    </br>
+    Linked and Associated
+    </br>
+    UNESP - São Paulo State University "Júlio de Mesquita Filho"
+    </br>
+    Higher Course in Data Processing Technology and Data Processing Technology
+    </br>
+    In the period February 1986 - October 1989
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </em>
+</p>
 
 [![Linkedin: Edson F. Cunha](https://img.shields.io/badge/-efcunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edcunha/)](https://www.linkedin.com/in/edcunha/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)](https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)
 
-## I am a graduate of the institution: ##
-```
-Paula Souza State Technological Education Center
-Linked and Associated
-UNESP - São Paulo State University "Júlio de Mesquita Filho"
-Higher Course in Data Processing Technology and Data Processing Technology
-In the period February 1986 - October 1989
-```
 ## About me... ##
 
 I'm Edson F. Cunha, I used to be an infrastructure specialist, but today I dedicate myself to the area of ​​DevOps and FullStack Developer.
