@@ -1,17 +1,23 @@
-## Olá, bem vindo ao meu perfil
-
+<h2> Olá, bem-vindos ao meu perfil! </h2>
+<img align='right' src="https://gaea.com.br/wp-content/uploads/2016/06/Como_buscar_maior_qualidade_no_desenvolvimento_de_software.jpg.jpeg" width="230">
+<p>
+  <em>
+    Centro Estadual de Educação Tecnológica Paula Souza
+    </br>
+    Vinculado e Associado
+    </br>
+    UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho"
+    </br>
+    Curso Superior de Tecnologia em Processamento de Dados e Tecnologia de Processamento de Dados
+    </br>
+    No periodo de Fevereiro de 1986 - Outubro de 1989 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </em>
+</p>
 
 [![Linkedin: Edson F. Cunha](https://img.shields.io/badge/-efcunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edcunha/)](https://www.linkedin.com/in/edcunha/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)](https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)
 
-## Sou formado pela instituição: ##
-```
-Centro Estadual de Educação Tecnológica Paula Souza
-Vinculado e Associado
-UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho"
-Curso Superior de Tecnologia em Processamento de Dados e Tecnologia de Processamento de Dados
-No periodo de Fevereiro de 1986 - Outubro de 1989 
-```
 ## Sobre mim... ##
 
 Eu sou Edson F. Cunha, antes especialista em infraestrutura mais hoje me dedico a área de DevOps e Desenvolvedor FullStack.
