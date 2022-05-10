@@ -1,4 +1,4 @@
-## [Olá, bem vindo ao meu perfil](https://github.com/efcunha/efcunha/blob/main/README-en-US.md)
+## Olá, bem vindo ao meu perfil
 
 
 [![Linkedin: Edson F. Cunha](https://img.shields.io/badge/-efcunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edcunha/)](https://www.linkedin.com/in/edcunha/)
