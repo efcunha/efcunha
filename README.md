@@ -137,6 +137,7 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
     </tr>
   </tbody>
 </table>
+  
 ## Backend:
 
 <table>
