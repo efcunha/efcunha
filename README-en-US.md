@@ -135,6 +135,21 @@ I seek to develop myself in agile development teams.
   </tbody>
 </table>
 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>JQuery</span><br><br><br>
+        <img height="64px" src="https://www.flanp.com/images/jquery-logo.png">
+      </td>      
+      <td width="20%" align="center">
+        <span>ESNext</span><br><br><br>
+        <img height="64px" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Backend:
 
 <table>
