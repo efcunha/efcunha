@@ -90,10 +90,6 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
         <span>ESNext</span><br><br><br>
         <img height="64px" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png">
       </td>
-      <td width="20%" align="center">
-        <span>JQuery</span><br><br><br>
-        <img height="64px" src="https://www.flanp.com/images/jquery-logo.png">
-      </td>      
     </tr>
   </tbody>
 </table>
@@ -127,6 +123,10 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
         <span>HTML5</span><br><br><br>
         <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
       </td>
+      <td width="20%" align="center">
+        <span>JQuery</span><br><br><br>
+        <img height="64px" src="https://www.flanp.com/images/jquery-logo.png">
+      </td>      
     </tr>
   </tbody>
 </table>
