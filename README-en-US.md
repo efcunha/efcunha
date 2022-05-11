@@ -51,7 +51,7 @@ I discovered what my profession would be from my first contact, in the programmi
 
 I have been working in the information technology field for over 20 (Twenty) years.
 
-Professionally, I have worked in companies in the technology area of ​​the Armed Forces, Department Stores, Grupo Frigorifico and currently in the Government of the State of Mato Grosso https://www.tce.mt.gov.br/.
+Professionally, I have worked in companies in the technology area of ​​the Armed Forces, Department Stores, Grupo Frigorifico and currently in the Court of Auditors of Mato Grosso https://www.tce.mt.gov.br/.
 
 Today I am a Junior Developer with less than 1 (One) year of experience in the programming area, but I have focused on studying and learning a range of tools,
 
