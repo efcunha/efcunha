@@ -47,7 +47,7 @@ Descobri qual seria minha profissão à partir do meu primeiro contato, na aula 
 
 Há mais de 20 (Vinte) anos, trabalho na área de tecnologia da informação.
 
-Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorifico e atualmente no Governo do Estado de Mato Grosso https://www.tce.mt.gov.br/.
+Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorifico e atualmente no Governo do Tribunal de Contas de Mato Grosso https://www.tce.mt.gov.br/.
 
 Hoje sou um Desenvolvedor Junior com menos de 1(Um) ano de experiência na área de programação, mais tenho focado em estudar e aprender uma gama de ferramentas,
 
