@@ -9,7 +9,7 @@
     </br>
     UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho"
     </br>
-    Curso Superior de Tecnologia em Processamento de Dados e Tecnologia de Processamento de Dados
+    Curso Superior de Tecnologia em Processamento de Dados
     </br>
     No periodo de Fevereiro de 1986 - Outubro de 1989 
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
