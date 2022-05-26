@@ -49,13 +49,11 @@ Há mais de 20 (Vinte) anos, trabalho na área de tecnologia da informação.
 
 Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorifico e atualmente no Governo do Tribunal de Contas de Mato Grosso https://www.tce.mt.gov.br/.
 
-Hoje sou um Desenvolvedor Junior com menos de 1(Um) ano de experiência na área de programação, mais tenho focado em estudar e aprender uma gama de ferramentas,
+Hoje sou um profissional DevOps Engineer e Architect com mais de 10 anos de experiencia, e DevOps Developer com menos de 1(Um) ano de experiência na área de programação, mais tenho focado em estudar e aprender uma gama de ferramentas,
 
 Por exemplo: JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc...
 
-Agora participo de alguns projetos com tarefas de complexidade menor, sem tantas exigências.
-
-Atualmente participando do planejamento de projetos por ter uma experiência vasta dando os direcionamentos, explicando, revisando algumas tarefas, com isto vou conseguindo me desenvolver melhor na área de desenvolvimento, sendo que também por estudar varias plataformas e entender onde cada uma possa ser utilizada dentro de uma infraestrutura cloud ou on premise.
+Participo de alguns projetos com tarefas de complexidade menor na área de desenvolvimento, sem tantas exigências, como aprendizado, meu foco são planejamento de projetos Cloud por ter uma experiência vasta dando os direcionamentos, explicando, revisando algumas tarefas, com isto vou conseguindo me especializar também na área de desenvolvimento, sendo que por conhecer varias plataformas e entender onde cada uma possa ser utilizada dentro de uma Infraestrutura Cloud ou On Premise.
 
 Sou realizado e apaixonado pelo que faço.
 
