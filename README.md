@@ -5,7 +5,7 @@
     <h2> Formação acadêmica </h2>
     Centro Estadual de Educação Tecnológica Paula Souza
     </br>
-    Vinculado e Associado
+    Vinculado e Associado a 
     </br>
     UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho"
     </br>
