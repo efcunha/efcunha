@@ -61,7 +61,7 @@ Frequentemente, atualizo-me em novas tecnologias.
 
 Busco desenvolver-me nos times de desenvolvimento ágil.
 
-👀 ``` Estou aprimorando o máximo possível meus conhecimentos de Desenvolvedor Full Stack / DevOps Engineer ```
+👀 ``` Estou aprimorando o máximo possível meus conhecimentos de DevOps Architect e DevOps Developer ```
 
 ## Meus Conhecimentos
 
