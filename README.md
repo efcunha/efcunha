@@ -41,7 +41,7 @@
 
 ## Sobre mim... ##
 
-Eu sou Edson F. Cunha, especialista em infraestrutura, mais hoje me dedico a área de DevOps e DevOps Devveloper.
+Eu sou Edson F. Cunha, especialista em infraestrutura, mais hoje me dedico a área de DevOps Engineer/Architect e DevOps Developer..
 
 Descobri qual seria minha profissão à partir do meu primeiro contato, na aula de programação do curso técnico, no ensino médio.
 
