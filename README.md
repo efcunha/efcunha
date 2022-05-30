@@ -65,149 +65,6 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
 
 ## Meus Conhecimentos
 
-## Linguages:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-      </td>
-      <!--
-      <td width="20%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      </td>
-      -->
-    </tr>
-  </tbody>
-</table>
-
-## Frontend:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>VueJS</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>React</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>AngularJS</span><br><br><br>
-        <img height="50px" src="https://devporai.com.br/wp-content/uploads/2020/06/Copy-of-Copy-of-Travel-Photography.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>CSS3</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-      </td>
-        <td width="20%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>JQuery</span><br><br><br>
-        <img height="64px" src="https://www.flanp.com/images/jquery-logo.png">
-      </td>      
-      <td width="20%" align="center">
-        <span>ESNext</span><br><br><br>
-        <img height="64px" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-  
-## Backend:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Spring</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Express</span><br><br><br>
-        <img height="50px" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-   
-## Banco de Dados (Relacional e não Relacional):
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>MySQL</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>MariaDB</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>PostgreSQL</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Oracle</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Redis</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://www.tremplin-numerique.org/wp-content/uploads/2021/01/Comment-sauvegarder-et-migrer-une-base-de-donnees-MongoDB.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## Visualização de Dados:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Kibane</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Grafana</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## Devops:
 
 <table>
@@ -352,6 +209,149 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
       <td width="20%" align="center">
         <span>Xen</span><br><br><br>
         <img height="50px" src="https://img2.gratispng.com/20180605/rxe/kisspng-xen-virtualization-hypervisor-kernel-based-virtual-xen-cloud-platform-5b172e33a38281.5672430315282458116698.jpg">
+      </td>
+    </tr>
+  </tbody>
+</table>  
+  
+## Linguages:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>TypeScript</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+      </td>
+      <!--
+      <td width="20%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      </td>
+      -->
+    </tr>
+  </tbody>
+</table>
+
+## Frontend:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>VueJS</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>React</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>AngularJS</span><br><br><br>
+        <img height="50px" src="https://devporai.com.br/wp-content/uploads/2020/06/Copy-of-Copy-of-Travel-Photography.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>CSS3</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+      </td>
+        <td width="20%" align="center">
+        <span>HTML5</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>JQuery</span><br><br><br>
+        <img height="64px" src="https://www.flanp.com/images/jquery-logo.png">
+      </td>      
+      <td width="20%" align="center">
+        <span>ESNext</span><br><br><br>
+        <img height="64px" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
+## Backend:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>NodeJS</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Spring</span><br><br><br>
+        <img height="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Express</span><br><br><br>
+        <img height="50px" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+   
+## Banco de Dados (Relacional e não Relacional):
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>MariaDB</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Oracle</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Redis</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://www.tremplin-numerique.org/wp-content/uploads/2021/01/Comment-sauvegarder-et-migrer-une-base-de-donnees-MongoDB.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Visualização de Dados:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Kibane</span><br><br><br>
+        <img height="50px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Grafana</span><br><br><br>
+        <img height="50px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
       </td>
     </tr>
   </tbody>
