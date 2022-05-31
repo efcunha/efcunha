@@ -51,7 +51,7 @@ Profissionalmente, já atuei em empresas na área de tecnologia das Forças Arma
 
 Hoje sou um profissional DevOps Architect com mais de 6 anos de experiencia, e DevOps Developer com menos de 1(Um) ano de experiência na área de programação, mais tenho focado em estudar e aprender uma gama de ferramentas,
 
-Por exemplo: JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull, Kubernetes, Docker, Microserviços, CI/CD, Git, Jenkins e etc...
+Tecnologias conhecidas: Kubernetes, Docker, Microserviços, CI/CD (GitLab,Jenkins,SonarQube,Sentry,Jfrog,Harbor), Git, JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull e etc...
 
 Participo de alguns projetos com tarefas de complexidade menor na área de desenvolvimento, sem tantas exigências, como aprendizado, meu foco são planejamento de projetos Cloud por ter uma experiência vasta dando os direcionamentos, explicando, revisando algumas tarefas, com isto vou conseguindo me especializar também na área de desenvolvimento, sendo que por conhecer varias plataformas e entender onde cada uma possa ser utilizada dentro de uma Infraestrutura Cloud ou On Premise.
 
