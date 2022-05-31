@@ -71,16 +71,16 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Rancher</span><br><br><br>
-        <img height="50px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/12/Rancher-Logo.png">
+        <span>Docker</span><br><br><br>
+        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
         <span>Kubernetes</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+        <span>Rancher</span><br><br><br>
+        <img height="50px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/12/Rancher-Logo.png">
       </td>
       <td width="20%" align="center">
         <span>Kasten K10</span><br><br><br>
