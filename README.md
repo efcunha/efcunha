@@ -90,6 +90,24 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
   </tbody>
 </table>
 
+## Infraestrutura de Código
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Terraform</span><br><br><br>
+        <img height="50px" src="https://caiodelgado.dev/content/images/2020/04/terraform_d56939b1fa30e9c48acec1ccd8d4e507.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Ansible</span><br><br><br>
+        <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
+
 ## CI/CD 
 
 <table>
