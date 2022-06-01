@@ -297,7 +297,7 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
     <tr valign="top">
       <td width="20%" align="center">
         <span>JQuery</span><br><br><br>
-        <img height="64px" src="https://www.flanp.com/images/jquery-logo.png">
+        <img height="64px" src="https://img2.gratispng.com/20180502/ksq/kisspng-web-development-jquery-ui-javascript-computer-icon-jqlogo-5ae94a5d5e5172.2488375515252383653863.jpg">
       </td>      
       <td width="20%" align="center">
         <span>ESNext</span><br><br><br>
