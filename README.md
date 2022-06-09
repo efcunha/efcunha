@@ -138,11 +138,15 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
 </table>
 <table>
   <tbody>
-    <tr valign="top">	  
+    <tr valign="top">
       <td width="20%" align="center">
         <span>Jenkins</span><br><br><br>
         <img height="50px" src="https://miro.medium.com/max/676/1*hE_6eVlhsJ2X63lF2pXj0A.png">
       </td>
+      <td width="20%" align="center">
+        <span>Jenkins</span><br><br><br>
+        <img height="50px" src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon.png">
+      </td>        
       <td width="20%" align="center">
         <span>JFrog</span><br><br><br>
         <img height="50px" src="https://www.purestorage.com/content/dam/purestorage/online-assets/logos/p-jfrog-fc.svg.imgo.svg">
