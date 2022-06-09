@@ -140,11 +140,11 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Bitbucket</span><br><br><br>
+        <span>Jenkins</span><br><br><br>
         <img height="50px" src="https://miro.medium.com/max/676/1*hE_6eVlhsJ2X63lF2pXj0A.png">
       </td>
       <td width="20%" align="center">
-        <span>Jenkins</span><br><br><br>
+        <span>Bitbucket</span><br><br><br>
         <img height="50px" src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon.png">
       </td>        
       <td width="20%" align="center">
