@@ -118,9 +118,28 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
         <img height="50px" src="https://mlohrktvfr9b.i.optimole.com/scftOdE.tVDx~16b5e/w:500/h:500/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/340-adesivo-Gitlab-Nerd-Stickers.png">
       </td>
       <td width="20%" align="center">
-        <span>ArgoCD</span><br><br><br>
-        <img height="50px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png">
+        <span>Jenkins</span><br><br><br>
+        <img height="50px" src="https://miro.medium.com/max/676/1*hE_6eVlhsJ2X63lF2pXj0A.png">
       </td>
+      <td width="20%" align="center">
+        <span>Bitbucket</span><br><br><br>
+        <img height="50px" src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon.png">
+      </td>        
+      <td width="20%" align="center">
+        <span>GitHub</span><br><br><br>
+        <img height="50px" src="https://samory.sistemasresponsivos.com.br/wp-content/uploads/2020/08/Octocat.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Docker Hub</span><br><br><br>
+        <img height="50px" src="https://www.jhipster.tech/images/logo/docker-hub.png">
+      </td>
+
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr valign="top">
       <td width="20%" align="center">
         <span>SonarQube</span><br><br><br>
         <img height="50px" src="https://cdn.aimultiple.com/media/sonarqube.png">
@@ -133,6 +152,10 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
         <span>Harbor</span><br><br><br>
         <img height="50px" src="https://goharbor.io/img/logos/harbor-icon-color.png">
       </td>
+      <td width="20%" align="center">
+        <span>ArgoCD</span><br><br><br>
+        <img height="50px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -140,24 +163,8 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Jenkins</span><br><br><br>
-        <img height="50px" src="https://miro.medium.com/max/676/1*hE_6eVlhsJ2X63lF2pXj0A.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Bitbucket</span><br><br><br>
-        <img height="50px" src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon.png">
-      </td>        
-      <td width="20%" align="center">
         <span>JFrog</span><br><br><br>
         <img height="50px" src="https://www.purestorage.com/content/dam/purestorage/online-assets/logos/p-jfrog-fc.svg.imgo.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>GitHub</span><br><br><br>
-        <img height="50px" src="https://samory.sistemasresponsivos.com.br/wp-content/uploads/2020/08/Octocat.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Docker Hub</span><br><br><br>
-        <img height="50px" src="https://www.jhipster.tech/images/logo/docker-hub.png">
       </td>
       <td width="20%" align="center">
         <span>Snyk</span><br><br><br>
@@ -165,8 +172,8 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
       </td>
     </tr>
   </tbody>
-</table>
-
+</table>  
+  
 ## Infraestrutura de Cloud
 
 <table>
@@ -179,10 +186,6 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
       <td width="20%" align="center">
         <span>CGP</span><br><br><br>
         <img height="50px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=pt-br">
-      </td>
-      <td width="20%" align="center">
-        <span>Azure</span><br><br><br>
-        <img height="50px" src="https://www.solarwinds.com/-/media/solarwinds/swdcv2/licensed-products/service-desk/integrations/sd-integrations-logo-azure-standard-size.ashx?rev=3282273e2a5242bb91a627723b25608e&hash=88B38AECE68B2658C84675BEC75FF2E9">
       </td>
     </tr>
   </tbody>
