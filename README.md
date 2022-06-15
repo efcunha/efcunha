@@ -184,7 +184,7 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
         <img height="50px" src="https://vempranuvem.files.wordpress.com/2015/06/aws-amazon-web-services.png">
       </td>
       <td width="20%" align="center">
-        <span>CGP</span><br><br><br>
+        <span>GCP</span><br><br><br>
         <img height="50px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=pt-br">
       </td>
     </tr>
