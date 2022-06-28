@@ -247,98 +247,26 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
   </tbody>
 </table>  
   
-## Linguages:
+## Linguages de scripts:
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-      </td>
-      <!--
       <td width="20%" align="center">
         <span>Python</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      </td>
-      -->
-    </tr>
-  </tbody>
-</table>
-
-## Frontend:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>VueJS</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+        <img height="50px" src="http://peteletrica.uff.br/wp-content/uploads/sites/509/2021/09/Python-logo-notext.svg_.png">
       </td>
       <td width="20%" align="center">
-        <span>React</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+        <span>Shell Script</span><br><br><br>
+        <img height="50px" src="https://w7.pngwing.com/pngs/112/603/png-transparent-shell-script-command-line-interface-unix-shell-bash-shell-angle-commandline-interface-nuvola.png">
       </td>
       <td width="20%" align="center">
-        <span>AngularJS</span><br><br><br>
-        <img height="50px" src="https://devporai.com.br/wp-content/uploads/2020/06/Copy-of-Copy-of-Travel-Photography.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>CSS3</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-      </td>
-        <td width="20%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+        <span>Bash Script</span><br><br><br>
+        <img height="50px" src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg">
       </td>
     </tr>
   </tbody>
 </table>
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>JQuery</span><br><br><br>
-        <img height="64px" src="https://img2.gratispng.com/20180502/ksq/kisspng-web-development-jquery-ui-javascript-computer-icon-jqlogo-5ae94a5d5e5172.2488375515252383653863.jpg">
-      </td>      
-      <td width="20%" align="center">
-        <span>ESNext</span><br><br><br>
-        <img height="64px" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-  
-## Backend:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Spring</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Express</span><br><br><br>
-        <img height="50px" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
    
 ## Banco de Dados (Relacional e não Relacional):
 
