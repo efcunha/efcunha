@@ -41,7 +41,7 @@
 
 ## Sobre mim... ##
 
-Eu sou Edson F. Cunha, especialista em infraestrutura de redes e segurança, mais hoje me dedico a área de DevOps Architect e DevOps Developer.
+Eu sou Edson F. Cunha, especialista em infraestrutura de redes e segurança, mais hoje me dedico a área de DevOps Architect.
 
 Descobri qual seria minha profissão à partir do meu primeiro contato, na aula de programação do curso técnico, no ensino médio.
 
