@@ -43,13 +43,11 @@
 
 Eu sou Edson F. Cunha, especialista em infraestrutura de redes e segurança, mais hoje me dedico a área de DevOps Architect.
 
-Descobri qual seria minha profissão à partir do meu primeiro contato, na aula de programação do curso técnico, no ensino médio.
-
 Há mais de 20 (Vinte) anos, trabalho na área de tecnologia da informação.
 
 Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorifico e atualmente no Tribunal de Contas de Mato Grosso https://www.tce.mt.gov.br/.
 
-Hoje sou um profissional DevOps Architect com mais de 6 anos de experiencia, e DevOps Developer com menos de 1(Um) ano de experiência na área de programação, mais tenho focado em estudar e aprender uma gama de ferramentas,
+Hoje sou um profissional DevOps Architect com mais de 6 anos de experiencia, mais tenho focado em estudar e aprender uma gama de ferramentas,
 
 Experiência em tecnologias: Kubernetes, Docker, Microserviços, CI/CD (GitLab, Jenkins, SonarQube, Sentry, Jfrog, Harbor), Git, JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, APIs Restfull e etc...
 
@@ -134,7 +132,7 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
         <img height="50px" src="https://www.jhipster.tech/images/logo/docker-hub.png">
       </td>
 
-    </tr>
+    
   </tbody>
 </table>
 <table>
