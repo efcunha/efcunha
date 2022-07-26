@@ -45,15 +45,17 @@
 
 ## About me... ##
 
-I'm Edson F. Cunha, I used to be an infrastructure specialist, but today I dedicate myself to the area of ​​DevOps Architect.
+I'm Edson F. Cunha, specialist in network infrastructure and security, but today I dedicate myself to the area of ​​DevOps Architect.
 
 I have been working in the information technology field for over 20 (Twenty) years.
 
-Professionally, I have worked in companies in the technology area of ​​the Armed Forces, Department Stores, Grupo Frigorifico and currently in the Court of Auditors of Mato Grosso https://www.tce.mt.gov.br/.
+Professionally, I have worked in companies in the technology area of ​​the Armed Forces, Department Stores, Grupo Frigorifico and currently at the Court of Auditors of Mato Grosso https://www.tce.mt.gov.br/.
 
-Now I participate in some projects with tasks of lesser complexity, without so many demands.
+Today I am a professional DevOps Architect with over 6 years of experience, but I have focused on studying and learning a range of tools,
 
-Currently participating in project planning for having a vast experience giving directions, explaining, reviewing some tasks, with this I am able to develop myself better in the development area, and also for studying several platforms and understanding where each one can be used within a cloud or on-premises infrastructure.
+Experience in technologies: Kubernetes, Docker, Microservices, CI/CD (GitLab, Jenkins, SonarQube, Sentry, Jfrog, Harbor), Git, Python, MongoDB etc...
+
+I participate in some projects with less complex tasks in the development area, without so many requirements, such as learning, my focus is Cloud project planning because I have a vast experience giving directions, explaining, reviewing some tasks, with this I'm able to specialize too in the area of ​​development, knowing several platforms and understanding where each one can be used within a Cloud or On Premise Infrastructure.
 
 I am accomplished and passionate about what I do.
 
