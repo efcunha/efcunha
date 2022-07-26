@@ -45,17 +45,11 @@
 
 ## About me... ##
 
-I'm Edson F. Cunha, I used to be an infrastructure specialist, but today I dedicate myself to the area of ​​DevOps and FullStack Developer.
-
-I discovered what my profession would be from my first contact, in the programming class of the technical course, in high school.
+I'm Edson F. Cunha, I used to be an infrastructure specialist, but today I dedicate myself to the area of ​​DevOps Architect.
 
 I have been working in the information technology field for over 20 (Twenty) years.
 
 Professionally, I have worked in companies in the technology area of ​​the Armed Forces, Department Stores, Grupo Frigorifico and currently in the Court of Auditors of Mato Grosso https://www.tce.mt.gov.br/.
-
-Today I am a Junior Developer with less than 1 (One) year of experience in the programming area, but I have focused on studying and learning a range of tools,
-
-For example: JavaScript, TypeScript, NodeJS, ReactJS, React, AngularJS, Express, MongoDB, Restfull APIs, Kubernetes, Docker, Microservices, CI/CD, Git, Jenkins and etc...
 
 Now I participate in some projects with tasks of lesser complexity, without so many demands.
 
@@ -77,101 +71,13 @@ I seek to develop myself in agile development teams.
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-      </td>
-      <!--
-      <td width="20%" align="center">
         <span>Python</span><br><br><br>
         <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       </td>
-      -->
-      <td width="20%" align="center">
-        <span>ESNext</span><br><br><br>
-        <img height="64px" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png">
-      </td>
-      <td width="20%" align="center">
-        <span>JQuery</span><br><br><br>
-        <img height="64px" src="https://www.flanp.com/images/jquery-logo.png">
-      </td>      
     </tr>
   </tbody>
 </table>
 
-## Frontend:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>VueJS</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>React</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>AngularJS</span><br><br><br>
-        <img height="50px" src="https://devporai.com.br/wp-content/uploads/2020/06/Copy-of-Copy-of-Travel-Photography.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>CSS3</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-      </td>
-        <td width="20%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>JQuery</span><br><br><br>
-        <img height="64px" src="https://www.flanp.com/images/jquery-logo.png">
-      </td>      
-      <td width="20%" align="center">
-        <span>ESNext</span><br><br><br>
-        <img height="64px" src="https://devlinduldulao.pro//wp-content/uploads/2018/12/esnext.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## Backend:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Spring</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Express</span><br><br><br>
-        <img height="50px" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-   
 ## Database (Relational and Non-Relational):
 
 <table>
