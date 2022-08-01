@@ -45,13 +45,13 @@
 
 ## About me... ##
 
-I'm Edson F. Cunha, specialist in network infrastructure and security, but today I dedicate myself to the area of ​​DevOps Architect.
+I'm Edson F. Cunha, specialist in network infrastructure and security, but today I dedicate myself to the area of ​​DevOps Architect / SRE.
 
 I have been working in the information technology field for over 20 (Twenty) years.
 
 Professionally, I have worked in companies in the technology area of ​​the Armed Forces, Department Stores, Grupo Frigorifico and currently at the Court of Auditors of Mato Grosso https://www.tce.mt.gov.br/.
 
-Today I am a professional DevOps Architect with over 6 years of experience, but I have focused on studying and learning a range of tools,
+Today I am a professional DevOps Architect / SRE with over 6 years of experience, but I have focused on studying and learning a range of tools,
 
 Experience in technologies: Kubernetes, Docker, Microservices, CI/CD (GitLab, Jenkins, SonarQube, Sentry, Jfrog, Harbor), Git, Python, MongoDB etc...
 
