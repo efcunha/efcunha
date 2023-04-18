@@ -48,7 +48,7 @@ Eu sou Edson F. Cunha, especialista em infraestrutura de redes e segurança, mai
 
 Há mais de 20 (Vinte) anos, trabalho na área de tecnologia da informação.
 
-Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorifico e atualmente no Tribunal de Contas de Mato Grosso https://www.tce.mt.gov.br/.
+Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorifico e no Tribunal de Contas de Mato Grosso.
 
 Hoje sou um profissional Site Reliability Engineering / DevOps Architect com mais de 6 anos de experiencia, mais tenho focado em estudar e aprender uma gama de ferramentas,
 
