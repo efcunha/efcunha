@@ -46,11 +46,11 @@
 
 Eu sou Edson F. Cunha, especialista em infraestrutura de redes e segurança, mais hoje me dedico a área de Site Reliability Engineering / DevOps Architect.
 
-Há mais de 20 (Vinte) anos, trabalho na área de tecnologia da informação.
+Há mais de 25 anos, trabalho na área de tecnologia da informação.
 
 Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorifico e no Tribunal de Contas de Mato Grosso.
 
-Hoje sou um profissional Site Reliability Engineering / DevOps Architect com mais de 6 anos de experiencia, mais tenho focado em estudar e aprender uma gama de ferramentas,
+Hoje sou um profissional Site Reliability Engineering / DevOps Architect com mais de 10 anos de experiencia, mais tenho focado em estudar e aprender uma gama de ferramentas,
 
 Experiência em tecnologias: Kubernetes, Docker, Microservices, CI/CD (GitLab, Jenkins, SonarQube, Sentry, Jfrog, Harbor), Git, Python, MongoDB etc...
 
