@@ -252,14 +252,6 @@ Busco desenvolver-me nos times de desenvolvimento ágil.
       <td width="20%" align="center">
         <span>XenServer</span><br><br><br>
         <img height="50px" src="https://www.fastti.com/wp-content/uploads/2017/08/XenServer.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Xen</span><br><br><br>
-        <img height="50px" src="https://img2.gratispng.com/20180605/rxe/kisspng-xen-virtualization-hypervisor-kernel-based-virtual-xen-cloud-platform-5b172e33a38281.5672430315282458116698.jpg">
-      </td>
-      <td width="20%" align="center">
-        <span>VMWare</span><br><br><br>
-        <img height="50px" src="https://www.mycybersecurity.com.br/wp-content/uploads/2016/03/vmware-logo.jpg">
       </td>      
     </tr>
   </tbody>
