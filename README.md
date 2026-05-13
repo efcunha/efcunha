@@ -1,344 +1,148 @@
-<h2> Olá, bem-vindos ao meu perfil !!! </h2> 
+<h1 align="center">Edson Fernandes Cunha</h1>
+<h3 align="center">DevOps/SRE Specialist | AWS | Kubernetes | Terraform | CI/CD | Observability</h3>
 
-[Hello, welcome to my profile !!!](https://github.com/efcunha/efcunha/blob/main/README-en-US.md)
-
-<img align='right' src="https://gaea.com.br/wp-content/uploads/2016/06/Como_buscar_maior_qualidade_no_desenvolvimento_de_software.jpg.jpeg" width="230">
-<p>
-  <em>
-    <h2> Formação acadêmica </h2>
-    Centro Estadual de Educação Tecnológica Paula Souza
-    </br>
-    Vinculado e Associado a 
-    </br>
-    UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho"
-    </br>
-    Curso Superior de Tecnologia em Processamento de Dados
-    </br>
-    No periodo de Fevereiro de 1986 - Outubro de 1989 
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  </em>
+<p align="center">
+  <a href="https://github.com/efcunha"><img src="https://img.shields.io/badge/GitHub-efcunha-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/efcunha/"><img src="https://img.shields.io/badge/LinkedIn-efcunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:efcunha@edsoncunha.eti.br"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Joao%20Pessoa%20PB-1F2937?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Remote-Available-16A34A?style=for-the-badge" alt="Remote" />
 </p>
 
-<h2> Conecte-se comigo </h2>
-</br>
-<div align="center">
-<a href="https://www.linkedin.com/in/edson-f-cunha-487602240/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/edsonfernandes.cunha/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/efcunha/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-<a href="https://twitter.com/EdsonFCunha1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/efcunha" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
+<p align="center">
+  <a href="#pt-br">PT-BR</a> | <a href="#en">EN</a>
+</p>
 
-## Se quiser entrar em contato:
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)](https://api.whatsapp.com/send?phone=5565999471346&text=Olá!)
+---
 
-## Sobre mim... ##
+## Executive Snapshot
 
-Eu sou Edson F. Cunha, especialista em infraestrutura de redes e segurança, mais hoje me dedico a área de Site Reliability Engineering / DevOps Architect.
+Senior DevOps/SRE specialist with 30+ years in IT and 15+ years in cloud infrastructure and automation.
 
-Há mais de 25 anos, trabalho na área de tecnologia da informação.
+- Built AWS platforms that supported 200%+ demand growth with stable performance
+- Reduced deployment time by 60% and enabled daily releases
+- Reduced MTTR by 45% through end-to-end observability
+- Sustained 99.9%+ uptime across production data stack
+- Reduced infrastructure cost by 40% in hybrid cloud transformation
 
-Profissionalmente, já atuei em empresas na área de tecnologia das Forças Armadas, Lojas de Departamentos, Grupo Frigorifico e no Tribunal de Contas de Mato Grosso.
+Ideal roles: Staff/Senior SRE, Senior DevOps Engineer, Platform Engineer.
 
-Hoje sou um profissional Site Reliability Engineering / DevOps Architect com mais de 10 anos de experiencia, mais tenho focado em estudar e aprender uma gama de ferramentas,
+---
 
-Experiência em tecnologias: Kubernetes, Docker, Microservices, CI/CD (GitLab, Jenkins, SonarQube, Sentry, Jfrog, Harbor), Git, Python, MongoDB etc...
+## Projeto Curado Por Objetivo de Vaga
 
-Participo de alguns projetos com tarefas de complexidade menor na área de desenvolvimento, sem tantas exigências, como aprendizado, meu foco são planejamento de projetos Cloud por ter uma experiência vasta dando os direcionamentos, explicando, revisando algumas tarefas, com isto vou conseguindo me especializar também na área de desenvolvimento, sendo que por conhecer varias plataformas e entender onde cada uma possa ser utilizada dentro de uma Infraestrutura Cloud ou On Premise.
+### Trilha SRE
+- [Rancher-v2.6-HA](https://github.com/efcunha/Rancher-v2.6-HA): alta disponibilidade e resiliencia de cluster.
+- [Kasten-K10](https://github.com/efcunha/Kasten-K10): backup e disaster recovery para Kubernetes.
+- [ELK-K8s](https://github.com/efcunha/ELK-K8s): centralizacao e analise de logs para operacao.
 
-Sou realizado e apaixonado pelo que faço.
+### Trilha DevOps
+- [pipeline-github-actions](https://github.com/efcunha/pipeline-github-actions): automacao CI/CD para workloads cloud.
+- [Terraform-Docker-ECS](https://github.com/efcunha/Terraform-Docker-ECS): IaC e deploy de containers no ECS.
+- [Terraform-EKS](https://github.com/efcunha/Terraform-EKS): provisionamento Kubernetes com Terraform.
 
-Frequentemente, atualizo-me em novas tecnologias.
+### Trilha Platform Engineer
+- [Terraform-AWS-EKS](https://github.com/efcunha/Terraform-AWS-EKS): base de plataforma Kubernetes gerenciada na AWS.
+- [k3d-cluster](https://github.com/efcunha/k3d-cluster): laboratorio de plataforma local para padroes de ambiente.
+- [restaurante-supabase](https://github.com/efcunha/restaurante-supabase): produto com stack moderna, CI/CD e operacao continua.
 
-Busco desenvolver-me nos times de desenvolvimento ágil.
+---
 
-👀 ``` Estou aprimorando o máximo possível meus conhecimentos de DevOps Architect e DevOps Developer ```
+<a id="pt-br"></a>
+## PT-BR
 
-## Meus Conhecimentos
+### Sobre
+Sou especialista DevOps/SRE com **30+ anos em TI** e **15+ anos em infraestrutura cloud e automacao**.
+Atuo no desenho e operacao de plataformas resilientes com foco em **escalabilidade, confiabilidade e velocidade de entrega**.
 
-## Devops:
+### Impacto em numeros
+- Crescimento de **200%+** de demanda suportado em AWS sem degradacao
+- Reducao de **60%** no tempo de deploy (de semanal para diario)
+- Reducao de **45%** no MTTR com observabilidade end-to-end
+- Uptime de **99.9%+** em stack de dados em producao
+- Reducao de **40%** em custos de infraestrutura em migracao para cloud hibrida
+- Automacao de **80%+** dos processos manuais de infraestrutura
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Kubernetes</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Rancher</span><br><br><br>
-        <img height="50px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/12/Rancher-Logo.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Kasten K10</span><br><br><br>
-        <img height="50px" src="https://www.luizpessol.com.br/wp-content/uploads/2021/07/kasten_k10_by_veeam-768x243.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Stack principal
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-0E9F6E?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## Infraestrutura de Código
+### Experiencia
+**Segware do Brasil Ltda | Especialista DevOps/SRE | Out/2022 - Atual (Remoto)**
+- Arquitetura AWS para escala e confiabilidade
+- Kubernetes multi-cluster com foco em DR
+- CI/CD otimizado para entregas frequentes
+- Observabilidade com Prometheus, Grafana, Loki e Alertmanager
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Terraform</span><br><br><br>
-        <img height="50px" src="https://caiodelgado.dev/content/images/2020/04/terraform_d56939b1fa30e9c48acec1ccd8d4e507.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Ansible</span><br><br><br>
-        <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-  
+**Tribunal de Contas do Estado de Mato Grosso | DevOps Architect | Jun/2009 - Ago/2022**
+- Modernizacao de infraestrutura e adocao de praticas DevOps
+- Migracao para cloud hibrida e reducao de custos
+- Automacao de processos operacionais e governanca
 
-## CI/CD 
+---
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>GitLab</span><br><br><br>
-        <img height="50px" src="https://mlohrktvfr9b.i.optimole.com/scftOdE.tVDx~16b5e/w:500/h:500/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/340-adesivo-Gitlab-Nerd-Stickers.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Jenkins</span><br><br><br>
-        <img height="50px" src="https://miro.medium.com/max/676/1*hE_6eVlhsJ2X63lF2pXj0A.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Bitbucket</span><br><br><br>
-        <img height="50px" src="https://w7.pngwing.com/pngs/574/621/png-transparent-bitbucket-original-wordmark-logo-icon.png">
-      </td>        
-      <td width="20%" align="center">
-        <span>GitHub</span><br><br><br>
-        <img height="50px" src="https://samory.sistemasresponsivos.com.br/wp-content/uploads/2020/08/Octocat.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Docker Hub</span><br><br><br>
-        <img height="50px" src="https://www.jhipster.tech/images/logo/docker-hub.png">
-      </td>
+<a id="en"></a>
+## EN
 
-    
-  </tbody>
-</table>
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>SonarQube</span><br><br><br>
-        <img height="50px" src="https://cdn.aimultiple.com/media/sonarqube.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Sentry</span><br><br><br>
-        <img height="50px" src="https://www.sentry.com.br/assets/img/slides/simbol-gr.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Harbor</span><br><br><br>
-        <img height="50px" src="https://goharbor.io/img/logos/harbor-icon-color.png">
-      </td>
-      <td width="20%" align="center">
-        <span>ArgoCD</span><br><br><br>
-        <img height="50px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>JFrog</span><br><br><br>
-        <img height="50px" src="https://www.purestorage.com/content/dam/purestorage/online-assets/logos/p-jfrog-fc.svg.imgo.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Snyk</span><br><br><br>
-        <img height="50px" src="https://www.trendmicro.com/content/dam/trendmicro/global/en/business/rt/lp/trend-snyk-logo.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>  
+### About
+I am a DevOps/SRE specialist with **30+ years in IT** and **15+ years focused on cloud infrastructure and automation**.
+I design and operate resilient platforms with strong focus on **scalability, reliability, and delivery speed**.
 
-## APM (Application Performance Monitoring)
+### Measurable Impact
+- Supported **200%+** demand growth on AWS without performance degradation
+- Reduced deployment lead time by **60%** (from weekly to daily releases)
+- Reduced MTTR by **45%** with end-to-end observability
+- Sustained **99.9%+** uptime on production data stack
+- Reduced infrastructure cost by **40%** through hybrid cloud migration
+- Automated **80%+** of manual infrastructure processes
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>SigNoz</span><br><br><br>
-        <img height="50px" src="https://d33wubrfki0l68.cloudfront.net/2b655ea5a90ef409e4b73144da2536ec35bcf69f/a959a/img/signozlogo-orange.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Apache SkyWalking</span><br><br><br>
-        <img height="50px" src="https://skywalking.apache.org/images/logo.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>  
-  
-## Infraestrutura de Cloud
+### Core Stack
+AWS, Kubernetes, Docker, Terraform, Ansible, GitLab CI, GitHub Actions, ArgoCD, Prometheus, Grafana, Loki, Python, Bash, PostgreSQL, MySQL, MongoDB, Kafka.
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="50px" src="https://vempranuvem.files.wordpress.com/2015/06/aws-amazon-web-services.png">
-      </td>
-      <td width="20%" align="center">
-        <span>GCP</span><br><br><br>
-        <img height="50px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=pt-br">
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Experience
+**Segware (Brazil) | DevOps/SRE Specialist | Oct/2022 - Present (Remote)**
+- AWS architecture for scalability and reliability
+- Multi-cluster Kubernetes focused on high availability and disaster recovery
+- CI/CD optimization for faster and safer releases
+- End-to-end observability with Prometheus/Grafana/Loki
 
-## Linux 
-## RedHat,Centos,Ubuntu,Debian
+**State Court of Accounts of Mato Grosso | DevOps Architect | Jun/2009 - Aug/2022**
+- Led DevOps modernization from traditional infrastructure to hybrid cloud
+- Reduced cost and increased SLA with automation and proactive monitoring
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Linux</span><br><br><br>
-        <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png">
-      </td>
-  </tbody>
-</table>
+---
 
-## Windows Server 
-## Versões 2012 R2, 2016, 2019
+## Certificacoes e trilhas atuais
+- Check Point CCSA R80.10
+- Gestao de Riscos de TI - NBR 31000/27005
+- Administracao de Sistemas Linux (ESR-RNP)
+- Docker, Kubernetes, Multicloud e CI/CD (Udemy)
+- Em andamento: **AWS SAA-C03** e **CKA**
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Windows</span><br><br><br>
-        <img height="50px" src="https://upload.wikimedia.org/wikipedia/pt/e/e0/Windows_logo.png">
-      </td>
-  </tbody>
-</table>
+---
 
-## Virtualização 
-## Harvester, XCP-NG, XenServer, Xen, VMWare
+## Estatisticas GitHub
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Harvester</span><br><br><br>
-        <img height="50px" src="https://www.suse.com/c/wp-content/uploads/2021/03/Harvester-Symbol.png">
-      </td>
-      <td width="20%" align="center">
-        <span>XCP-NG</span><br><br><br>
-        <img height="50px" src="https://www.shapeblue.com/wp-content/uploads/2020/10/xcp.jpg">
-      </td>
-      <td width="20%" align="center">
-        <span>XenServer</span><br><br><br>
-        <img height="50px" src="https://www.fastti.com/wp-content/uploads/2017/08/XenServer.png">
-      </td>      
-    </tr>
-  </tbody>
-</table>  
-  
-## Linguages de scripts:
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=efcunha&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efcunha&layout=compact&theme=default&hide_border=true" alt="Top langs" />
+</p>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="50px" src="http://peteletrica.uff.br/wp-content/uploads/sites/509/2021/09/Python-logo-notext.svg_.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Shell Script</span><br><br><br>
-        <img height="50px" src="https://w7.pngwing.com/pngs/112/603/png-transparent-shell-script-command-line-interface-unix-shell-bash-shell-angle-commandline-interface-nuvola.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Bash Script</span><br><br><br>
-        <img height="50px" src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-   
-## Banco de Dados (Relacional e não Relacional):
+---
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>MySQL</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>MariaDB</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>PostgreSQL</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Oracle</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Redis</span><br><br><br>
-        <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://www.tremplin-numerique.org/wp-content/uploads/2021/01/Comment-sauvegarder-et-migrer-une-base-de-donnees-MongoDB.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Contato
+- LinkedIn: [linkedin.com/in/efcunha](https://www.linkedin.com/in/efcunha/)
+- GitHub: [github.com/efcunha](https://github.com/efcunha)
+- Email: [efcunha@edsoncunha.eti.br](mailto:efcunha@edsoncunha.eti.br)
 
-## Visualização de Dados:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Kibane</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Grafana</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-💞️ ```Estou procurando sempre colaborar com bases de conhecimento sobre Docker, Kubernetes, Rancher, etc...```
-   
-📫 ```Se quiser participar compartilhando conhecimento estou a disposição para ajudar.```
-
-🌱 ```Atualmente, estou implementando meus conhecimentos adquiridos de como montar uma infraestrutura de Rancher v2.6.x com Kubernetes K8s em Alta Disponibilidade.```
-
-✨ ```Portando projetos existentes de sistemas para o ambiente de infraestrutura de Docker e Kubernetes```
-
-![rancher-kubernetes-producao](https://user-images.githubusercontent.com/52961166/116400929-9fd20000-a7f8-11eb-8e06-fe9cf393e4a9.png)
-
-<!---
-efcunha/efcunha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aberto para oportunidades remotas em DevOps, SRE e Platform Engineering.
