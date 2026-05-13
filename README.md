@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/efcunha"><img src="https://img.shields.io/badge/GitHub-efcunha-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/efcunha/"><img src="https://img.shields.io/badge/LinkedIn-efcunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/edson-f-cunha-487602240/"><img src="https://img.shields.io/badge/LinkedIn-efcunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:efcunha@edsoncunha.eti.br"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Joao%20Pessoa%20PB-1F2937?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/Remote-Available-16A34A?style=for-the-badge" alt="Remote" />
