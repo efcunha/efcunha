@@ -56,7 +56,7 @@ Sou especialista DevOps/SRE com **30+ anos em TI** e **15+ anos em infraestrutur
 Atuo no desenho e operacao de plataformas resilientes com foco em **escalabilidade, confiabilidade e velocidade de entrega**.
 
 ### Impacto em numeros
-- Crescimento de **200%+** de demanda suportado em AWS sem degradacao
+- Crescimento de **100%+** de demanda suportado em AWS sem degradacao
 - Reducao de **60%** no tempo de deploy (de semanal para diario)
 - Reducao de **45%** no MTTR com observabilidade end-to-end
 - Uptime de **99.9%+** em stack de dados em producao
