@@ -99,7 +99,7 @@ I am a DevOps/SRE specialist with **30+ years in IT** and **15+ years focused on
 I design and operate resilient platforms with strong focus on **scalability, reliability, and delivery speed**.
 
 ### Measurable Impact
-- Supported **200%+** demand growth on AWS without performance degradation
+- Supported **100%+** demand growth on AWS without performance degradation
 - Reduced deployment lead time by **60%** (from weekly to daily releases)
 - Reduced MTTR by **45%** with end-to-end observability
 - Sustained **99.9%+** uptime on production data stack
