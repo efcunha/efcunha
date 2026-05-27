@@ -19,7 +19,7 @@
 
 Senior DevOps/SRE specialist with 30+ years in IT and 15+ years in cloud infrastructure and automation.
 
-- Built AWS platforms that supported 200%+ demand growth with stable performance
+- Built AWS platforms that supported 100%+ demand growth with stable performance
 - Reduced deployment time by 60% and enabled daily releases
 - Reduced MTTR by 45% through end-to-end observability
 - Sustained 99.9%+ uptime across production data stack
