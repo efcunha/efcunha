@@ -1,5 +1,5 @@
 <h1 align="center">Edson Fernandes Cunha</h1>
-<h3 align="center">DevOps/SRE Specialist | AWS | Kubernetes | Terraform | CI/CD | Observability</h3>
+<h3 align="center">DevOps & Cloud Infrastructure | AI Platform Engineering | Platform/SRE Lead  | Platform Engineering | Observability | Open to Remote</h3>
 
 <p align="center">
   <a href="https://github.com/efcunha"><img src="https://img.shields.io/badge/GitHub-efcunha-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
