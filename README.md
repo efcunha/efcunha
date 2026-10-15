@@ -102,7 +102,7 @@ Experiência recente: Segware (DevOps/SRE Specialist, 2022–atual) e Tribunal d
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/efcunha/efcunha/main/assets/logo-ef-cunha-soft-house.png" width="120" alt="E F Cunha Soft House" />
+  <img src="https://raw.githubusercontent.com/efcunha/efcunha/main/assets/glyph-ef-cunha-soft-house.png" width="120" alt="E F Cunha Soft House" />
 </p>
 
 <h3 align="center">Tem um produto para construir ou uma plataforma para escalar?</h3>
